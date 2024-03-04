@@ -1,0 +1,1115 @@
+SUB,4116390805,Accueil,Peu importe.
+SUB,2307291526,Configuration,Enregistrer, réinitialiser ou charger les paramètres.
+SUB,3204289615,Position,Ajuster la position du menu, la taille et d'autres éléments.
+SUB,1025013155,Traductions,Charger et recharger les traductions.
+SUB,4119252608,Affecter des touches,Réaffecter les touches du menu.
+BOUTON,4272379708,Réinitialiser les paramètres,Restaurer tous les paramètres par défaut.
+BOUTON,1320236296,Ouvrir Discord,Ouvrira le lien Discord.
+BOUTON,2340557512,Sélectionné,IDK (Je ne sais pas).
+FLOAT,467607871,Rembourrage,Changer l'espacement entre l'en-tête et les options.
+FLOAT,2558310423,Rembourrage,Changer l'espacement entre les options et la description.
+FLOAT,3041045794,Rembourrage,Changer l'espacement entre l'en-tête et la barre secondaire.
+FLOAT,976141877,Horizontal,Déplacer le menu horizontalement.
+FLOAT,2350473737,Vertical,Déplacer le menu verticalement.
+SUB,1614593165,Paramètres,Paramètres du menu.
+SUB,3052066764,Personnalisation de l'en-tête,Paramètres de l'en-tête.
+SUB,1144191879,Personnalisation de la barre secondaire,Paramètres de la barre secondaire.
+SUB,1495183268,Couleur de l'en-tête,Changer la couleur de l'en-tête.
+SUB,2962996654,Couleur du titre de l'en-tête,Changer la couleur du titre de l'en-tête.
+SUB,750423190,Polices du titre de l'en-tête,Changer les polices du titre.
+SUB,3792519589,Couleur du sous-menu,Changer la couleur du sous-menu.
+SUB,1907521595,Couleur de la ligne du sous-menu,Changer la couleur de la ligne du sous-menu.
+SUB,531479189,Gui Autisme,Donner de l'autisme à votre GUI.
+TOGGLE_INT_SLIDER,3071611718,Arc-en-ciel de l'en-tête,L'en-tête change constamment de couleurs RVB.
+TOGGLE_INT_SLIDER,6211325,Arc-en-ciel du titre de l'en-tête,Le titre de l'en-tête change constamment de couleurs RVB.
+TOGGLE_INT_SLIDER,2715750862,Arc-en-ciel du sous-menu,Le sous-menu change constamment de couleurs RVB.
+TOGGLE_INT_SLIDER,3658630357,Arc-en-ciel de la ligne du sous-menu,La ligne du sous-menu change constamment de couleurs RVB.
+TOGGLE_INT_SLIDER,323295267,Arc-en-ciel du texte à gauche,Le texte à gauche de l'en-tête devient arc-en-ciel.
+TOGGLE_INT_SLIDER,1817608888,Arc-en-ciel du texte à droite,Le texte à gauche de l'en-tête devient arc-en-ciel.
+TOGGLE_INT_SLIDER,708945149,Arc-en-ciel des options,Les options deviennent arc-en-ciel.
+TOGGLE_INT_SLIDER,3821948149,Arc-en-ciel du scroller,Le scroller devient arc-en-ciel.
+TOGGLE_INT_SLIDER,3485289646,Arc-en-ciel des flèches,Les flèches deviennent arc-en-ciel.
+TOGGLE_INT_SLIDER,2445866252,Arc-en-ciel des flèches sélectionnées,Les flèches sélectionnées deviennent arc-en-ciel.
+TOGGLE_INT_SLIDER,954889383,Arc-en-ciel de "Off",Le texte "Off" devient arc-en-ciel.
+TOGGLE_INT_SLIDER,3357744948,Arc-en-ciel de "On",Le texte "On" devient arc-en-ciel.
+TOGGLE_INT_SLIDER,1096929684,Arc-en-ciel du fond des curseurs,Le fond des curseurs devient arc-en-ciel.
+TOGGLE_INT_SLIDER,1015728881,Arc-en-ciel des curseurs,Les curseurs eux-mêmes deviennent arc-en-ciel.
+TOGGLE_INT_SLIDER,678054426,Arc-en-ciel du texte des options,Le texte des options lui-même devient arc-en-ciel.
+TOGGLE_INT_SLIDER,631414923,Arc-en-ciel du texte sélectionné,Le texte sélectionné lui-même devient arc-en-ciel.
+TOGGLE_INT_SLIDER,4135739104,Arc-en-ciel de la description,Le fond de la description lui-même devient arc-en-ciel.
+TOGGLE_INT_SLIDER,4284591726,Arc-en-ciel du texte de la description,Le texte de la description lui-même devient arc-en-ciel.
+SUB,1137191128,Couleur du texte à gauche,Changer la couleur du texte à gauche.
+SUB,3238024365,Couleur du texte de l'option,Changer la couleur du texte de l'option.
+SUB,1837295246,Personnalisation des options,Paramètres des options.
+SUB,1477204180,Couleur de l'option,Paramètres de couleur de l'option.
+SUB,491266305,Polices des options,Changer les polices des options.
+SUB,1879705756,Couleur du scroller,Paramètres de couleur du scroller.
+SUB,3899130402,Couleur de la flèche,Paramètres de couleur de la flèche.
+SUB,1964265937,Couleur de la flèche sélectionnée,Paramètres de couleur de la flèche sélectionnée.
+SUB,2764366780,Couleur de "Off",Paramètres de couleur de "Off".
+SUB,1668681754,Couleur de "On",Paramètres de couleur de "On".
+SUB,3531750371,Couleur du fond des curseurs,Paramètres de couleur du fond des curseurs.
+SUB,2944752543,Couleur des curseurs,Paramètres de couleur des curseurs.
+SUB,3542653704,Couleur du texte,Paramètres de couleur du texte.
+SUB,1896126384,Couleur du texte sélectionné,Paramètres de couleur du texte sélectionné.
+SUB,1123203483,Personnalisation du pied de page,Paramètres du pied de page.
+FLOAT,460453113,Hauteur du pied de page,Définir la hauteur du pied de page du menu.
+FLOAT,1596610890,Hauteur de la ligne du pied de page,Définir la hauteur de la ligne du pied de page du menu.
+FLOAT,2002248500,Rembourrage du pied de page,Définir le rembourrage du pied de page du menu.
+FLOAT,2879892426,Rembourrage de la description,Définir le rembourrage de la description du menu.
+FLOAT,3079273261,Hauteur de la description,Définir la hauteur de la description du menu.
+SUB,489140349,Couleur de la ligne du pied de page,Paramètres de couleur de la ligne du pied de page.
+TOGGLE_INT_SLIDER,2271884166,Arc-en-ciel de la ligne du pied de page,La ligne du pied de page devient arc-en-ciel.
+SUB,2202632217,Couleur du pied de page,Paramètres de couleur du pied de page.
+TOGGLE_INT_SLIDER,3331704346,Arc-en-ciel du pied de page,Le pied de page devient arc-en-ciel.
+SUB,2630544317,Couleur du texte à gauche du pied de page,Paramètres de couleur du texte à gauche du pied de page.
+TOGGLE_INT_SLIDER,1898077395,Arc-en-ciel du texte à gauche du pied de page,Le texte à gauche du pied de page devient arc-en-ciel.
+SUB,765620435,Couleur du texte à droite du pied de page,Paramètres de couleur du texte à droite du pied de page.
+TOGGLE_INT_SLIDER,3919085305,Arc-en-ciel du texte à droite du pied de page,Le texte à droite du pied de page devient arc-en-ciel.
+SUB,1702702250,Personnalisation de la description,Paramètres de la description.
+SUB,3409962681,Couleur du rectangle de la description,Paramètres de couleur du rectangle de la description.
+SUB,1860587706,Couleur du texte de la description,Paramètres de couleur du texte de la description.
+BOUTON,1984557588,Terminer le menu,Décharge le menu du jeu.
+FLOAT,2327896094,Largeur,Définir la largeur du menu.
+FLOAT,740348599,Hauteur,Définir la hauteur de l'en-tête du menu.
+FLOAT,3274179416,Hauteur de la ligne du sous-menu,Définir la hauteur de la ligne du sous-menu.
+SUB,2738193377,Titre,Modifier les paramètres du texte de l'en-tête.
+TOGGLE,3696717525,Activer le titre,Active le nom du menu dans l'en-tête.
+TOGGLE,3810607152,En-tête animé,Lire l'animation [GIF] dans l'en-tête.
+INT,3417920751,Délai GIF,Ajuster le délai de mise à jour du GIF en millisecondes.
+FLOAT,926377019,Hauteur,Définir la hauteur des options du menu.
+FLOAT,3168074722,Hauteur,Définir la hauteur de la barre secondaire du menu.
+BOUTON,3446227667,Rouge,Définir la couleur rouge pour l'élément sélectionné.
+BOUTON,4104840473,Vert,Définir la couleur verte pour l'élément sélectionné.
+BOUTON,1443636594,Bleu,Définir la couleur bleue pour l'élément sélectionné.
+BOUTON,2701753611,Alpha,Définir l'élément sélectionné en mode alpha.
+BOUTON,3173334047,Composer une couleur personnalisée,Sélecteur de couleur RGBA.
+BOUTON,3360239835,Enregistrer les paramètres,Enregistrer l'état actuel du menu.
+BOUTON,2811620106,Charger les paramètres,Charger l'état enregistré du menu.
+TOGGLE,4029294094,Prise en charge du contrôleur en jeu,Utilise les fonctions en jeu pour prendre en charge le contrôleur.
+INT,882972965,Éléments par page,Ajuster le nombre d'options par page.
+NOTIFICATION,4158241237,Rockstar Games,Je vous souhaite un joyeux Noël, Infamous!
+NOTIFICATION,3038781860,Message d'attribution de la touche d'ouverture,Appuyez sur n'importe quelle touche du clavier pour attribuer.
+INT,2558322599,Réaffecter la touche d'ouverture,Modifier la touche d'ouverture du menu pour le clavier.
+BOUTON,2517468871,Charger les traductions,Cela chargera la traduction depuis translations.exe.
+NOTIFICATION,1690687601,Extraction des traductions,Traductions - Extraites.
+NOTIFICATION,3255958099,Mise à jour des traductions,Traductions - Nouvelle liste ajoutée.
+NOTIFICATION,2727834438,Chargement des traductions,Traductions - Chargées.
+NOTIFICATION,341948081,ON,OFF
+TOGGLE_INT_SLIDER,824971288,Chargement automatique des traductions,Sauve en mémoire pour charger la dernière traduction.
+TOGGLE_INT_SLIDER,3340318040,Chargement automatique des paramètres,Sauve en mémoire pour charger la dernière configuration enregistrée.
+TOGGLE_INT_SLIDER,3812650931,Chargement automatique des polices d'options sélectionnées,Sauve en mémoire pour charger les dernières polices d'options sélectionnées.
+TOGGLE_INT_SLIDER,1938928504,Chargement automatique des polices de titre sélectionnées,Sauve en mémoire pour charger les dernières polices de titre sélectionnées.
+FLOAT,2814725596,Échelle du texte,Changer l'échelle des polices des options.
+FLOAT,196774682,Échelle du texte,Changer l'échelle des polices de titre.
+SUB,1354841095,Personnalisation des animations,Paramètres des animations.
+FLOAT_TOGGLE,420369014,Animation du défilement,Multiplie les animations du défilement par le chronométrage delta.
+FLOAT_TOGGLE,150893800,Animation du texte du défilement,Multiplie les animations du texte du défilement par le chronométrage delta.
+SUB,4030880377,Joueur,Options liées au joueur.
+SUB,791180122,Santé,Options liées à la santé du joueur.
+SUB,2421446248,Nuke God,Petite fonctionnalité amusante d'Infamous.
+SUB,1891018481,Champ de force,Crée un champ autour de votre personnage. Pousse les objets, les personnages et les véhicules loin de vous.
+SUB,712589223,Mouvements,Options liées aux mouvements du joueur.
+SUB,1738636017,Styles de marche,Changer le style de marche de votre personnage.
+SUB,760523025,Styles de maintien d'arme,Changer le style de maintien d'arme de votre personnage.
+SUB,213385507,Styles d'animation d'arme,Changer le style d'animation d'arme de votre personnage.
+SUB,1173541854,Poussée du vent,Le vent poussera votre personnage.
+SUB,2927889711,Drapeaux de saut,Modifier le saut de votre personnage.
+SUB,2525391063,Peau du joueur,Options de changement de modèle du joueur.
+SUB,3741845570,Apparence,Options de modification de l'apparence du joueur.
+SUB,125794789,Apparences enregistrées,Chargera tous les fichiers .XML dans C:/Infamous/Extra/Appearance.
+SUB,370655432,Éditeur d'apparence,Modifier l'apparence de votre personnage.
+SUB,245702593,Traces de mains,Vos mains laisseront des traînées.
+SUB,3118526828,Derniers PNJ,PNJ récemment ajoutés au jeu.
+SUB,3918471748,Joueur,Skins du joueur.
+SUB,2842788967,Animaux,Skins d'animaux.
+SUB,3509259514,Femmes Ambiantes,Skins de femmes ambiantes.
+SUB,2228193508,Hommes Ambiants,Skins d'hommes ambiants.
+SUB,228668867,Cinématique,Skins de cinématique.
+SUB,673068639,Femmes de Gang,Skins de femmes de gang.
+SUB,3269508391,Hommes de Gang,Skins d'hommes de gang.
+SUB,1110997147,Histoire,Skins d'histoire.
+SUB,2719809731,Multiplayer,Multiplayer skins.
+SUB,2582975658,Scénario Femme,Peaux féminines de scénario.
+SUB,570996321,Scénario Homme,Peaux masculines de scénario.
+SUB,890430565,Scénario Femme de l'Histoire,Peaux féminines de scénario de l'histoire.
+SUB,3738600648,Scénario Homme de l'Histoire,Peaux masculines de scénario de l'histoire.
+SUB,2951697028,Autre,Autres peaux.
+SUB,1489910039,Styles Hommes,Styles de marche liés aux hommes uniquement.
+SUB,1713328458,Styles Femmes,Styles de marche liés aux femmes uniquement.
+SUB,4107455726,Plus de Styles,Plus d'autres styles.
+SUB,4263098118,Animations,Animations jouables sur le personnage local.
+SUB,705016974,Commun,Liste des animations courantes.
+SUB,2413774418,Paramètres,Paramètres pour modifier les indicateurs d'animations et plus encore.
+SUB,2267637030,Danse,Liste des animations de danse.
+SUB,2673376308,Animal,Liste des animations d'animaux.
+SUB,3712215540,Gestes,Liste des animations de gestes.
+SUB,2918128479,Idle,Liste des animations au repos.
+TOGGLE,2280238136,Aperçus des Modèles,Vous pourrez voir les aperçus des peaux.
+BREAKER,1271682322,Scénarios,0XNULL
+SUB,4198729172,Marche,Scénarios de marche.
+SUB,2717011493,Stationnement,Scénarios de stationnement.
+SUB,474475428,Divertissement,Scénarios de divertissement.
+SUB,3807713634,Interactions Humaines Spécifiques,Scénarios d'interactions humaines spécifiques.
+SUB,1440708217,Actions d'Animaux,Scénarios d'actions d'animaux.
+SUB,233218605,Conduite et Actions de Véhicules,Scénarios d'actions de conduite et de véhicules.
+SUB,3601621500,Accessoires et Autres Actions,Scénarios d'actions d'accessoires et autres.
+SUB,1031031141,Divers,Scénarios divers.
+SUB,4163634388,No Clip,Permet de se déplacer librement.
+TOGGLE,2231491210,Activer le No Clip,Active la fonction No Clip.
+FLOAT,1040691631,Vitesse vers le Haut,Vitesse lorsque la touche vers le haut est enfoncée [Maj gauche].
+FLOAT,1287465744,Vitesse vers le Bas,Vitesse lorsque la touche vers le bas est enfoncée [Ctrl gauche].
+FLOAT,641489181,Vitesse vers l'Avant,Vitesse lorsque la touche vers l'avant est enfoncée [W].
+FLOAT,932051780,Vitesse vers l'Arrière,Vitesse lorsque la touche vers l'arrière est enfoncée [S].
+FLOAT,4068545192,Vitesse de Virage à Gauche,Vitesse lorsque la touche vers la gauche est enfoncée [A].
+FLOAT,4253011397,Vitesse de Virage à Droite,Vitesse lorsque la touche vers la droite est enfoncée [D].
+FLOAT,4055239326,Multiplicateur de Vitesse,Multiplicateur de vitesse complet lorsqu'il n'y a pas de collision.
+TOGGLE,1830696422,Collision,La collision sera désactivée en mode No Clip.
+TOGGLE,1536932810,Conserver la Physique,Le personnage n'a aucune réaction à la collision.
+TOGGLE,3673801201,Basculer vers le Mouvement de la Caméra,Le mouvement sans collision utilisera la caméra comme mouvement. Et certains facteurs de vitesse ne seront pas utilisés.
+TOGGLE_INT_SLIDER,3433882162,Animation Gauche - Droite,Votre personnage jouera une animation de rotation.
+TOGGLE_INT_SLIDER,721161097,Animation Haut - Bas,Votre personnage jouera une animation de rotation.
+TOGGLE_INT_SLIDER,2472078435,Animation de Roulis Haut - Bas,Votre personnage jouera une animation de rotation de roulis.
+TOGGLE,4004332449,Animation T-Pos,Le personnage joue l'animation T-Pos.
+TOGGLE,1782117649,Activer les Traces des Mains,Affichera des effets visuels cool sur vos mains.
+TOGGLE_INT_SLIDER,1829611015,Traces de Couleur Arc-en-Ciel,Les couleurs s'estomperont lentement.
+TOGGLE,3927962610,Mode Dieu,Vous ne serez plus jamais tué.
+BREAKER,1529510329,Preuves,0XNULL
+BREAKER,1817932267, ,0XNULL
+BREAKER,2983284918,Plus de Modes,0XNULL
+TOGGLE,510057269,À l'épreuve des balles,Vous ne serez plus jamais tué par une balle.
+TOGGLE,2430138641,À l'épreuve du feu,Vous ne serez plus jamais tué par le feu.
+TOGGLE,1280945931,À l'épreuve des explosions,Vous ne serez plus jamais tué par des explosions.
+TOGGLE,1210576091,À l'épreuve des collisions,Vous ne serez plus jamais tué par des collisions.
+TOGGLE,1923875581,À l'épreuve des attaques au corps à corps,Vous ne serez plus jamais tué par des attaques au corps à corps.
+TOGGLE,4132447217,À l'épreuve de la vapeur,Vous ne serez plus jamais tué par la vapeur.
+TOGGLE,1173663338,À l'épreuve de l'inconnu,Vous ne serez plus jamais tué par des causes inconnues.
+TOGGLE,3123271065,À l'épreuve de l'eau,Vous ne serez plus jamais tué par l'eau.
+BREAKER,1373031564,Options,0XNULL
+BREAKER,227635677,Paramètres,0XNULL
+TOGGLE_INT_SLIDER,1735376217,Ajuster le niveau de recherche,Changez ou verrouillez votre niveau de recherche actuel.
+TOGGLE,2539545644,Jamais Recherché,Définit le niveau de recherche actuel à 0.
+TOGGLE,3384504908,Ignorer par la police,La police vous ignorera.
+TOGGLE,933513514,Ignorer par tout le monde,Tout le monde vous ignorera.
+TOGGLE,562115137,Silencieux,Vous ne ferez aucun bruit en vous déplaçant.
+TOGGLE,3872418555,Saut surpuissant,Saut surpuissant sans animation de la bête.
+TOGGLE,4156288309,Saut de la bête,Saut surpuissant avec animation de la bête.
+TOGGLE,3672351496,Utiliser la force de lancement,Le personnage utilisera la force de lancement en sautant.
+TOGGLE,417627925,Contourner la limite de saut,Saut pratiquement illimité.
+TOGGLE,1727430344,Invisibilité,Devenez une ombre.
+TOGGLE,1108151523,Pas de ragdoll,Le joueur ne tombera jamais.
+INT_SLIDER,4075416435,Super Ragdoll,Le joueur ragdollera comme un fou mais sans ragdoll sera désactivé.
+TOGGLE,4288164242,Réduire la collision par capsule,Fait ce qu'il dit et permet de traverser certains objets.
+TOGGLE_INT_SLIDER,2690302478,Vitesse de course,Modifiez votre vitesse de course.
+TOGGLE_INT_SLIDER,386718993,Vitesse de nage,Modifiez votre vitesse de nage.
+TOGGLE_INT_SLIDER,2276312951,Activer la poussée du vent,Forcément possiblement courir de manière super et régler la vitesse.
+TOGGLE,252793053,Force aléatoire,Applique une force aléatoire en courant.
+TOGGLE,1638004538,Appliquer en marchant,Appliquez du vent en marchant.
+TOGGLE,2652254960,Appliquer en courant,Appliquez du vent en courant.
+TOGGLE,2824874051,Appliquer en sprintant,Appliquez du vent en sprintant.
+TOGGLE,241083381,Activer la vérification du bouton de sprint,Le vent ne s'appliquera que si la touche de sprint est pressée.
+TOGGLE,602722105,Marcher sous l'eau,Permet de marcher sous l'eau.
+TOGGLE,4089845535,Mode nain,Vous fait devenir plus petit.
+BUTTON,3855498528,Guérir le joueur,Remplit votre santé.
+BUTTON,1635934617,Se tuer,Vous serez tué.
+TOGGLE,809084247,Appliquer des tenues alternatives,Active l'application de tenues alternatives lorsque le modèle diffère.
+BUTTON,670234434,Enregistrer l'apparence,Permet d'enregistrer les tenues et l'apparence actuelles.
+BUTTON,2265221365,Peau,Changer le type de peau.
+BUTTON,92221586,Variation de peau,Variation de tête de peau.
+BUTTON,2571972306,Tête,Changer le type de tête.
+BUTTON,4049002430,Variation de tête,Variation de tête.
+BUTTON,2250944691,Visage,Changer le type de visage.
+BUTTON,1679032892,Variation de visage,Variation de visage.
+BUTTON,507267951,Masque,Changer le type de masque.
+BUTTON,4136340782,Variation de masque,Variation de masque.
+BUTTON,1369131780,Torse,Changer le type de torse.
+BUTTON,2607236250,Variation de torse,Variation de masque.
+BUTTON,694694619,Cheveux,Changer le type de cheveux.
+BUTTON,456059203,Variation de cheveux,Variation de cheveux.
+BUTTON,1160507494,Torse 2,Changer le type de torse.
+BUTTON,772355971,Variation de torse 2,Variation de torse.
+BUTTON,895397926,Jambes,Changer le type de jambes.
+BUTTON,1659990135,Variation de jambes,Variation de jambes.
+BUTTON,2290416218,Sac à dos,Changer le type de parachute/sac à dos.
+BUTTON,3736997655,Variation de sac à dos,Variation de parachute/sac à dos.
+BUTTON,3608016486,Chaussures,Changer le type de chaussures.
+BUTTON,2118779622,Variation de chaussures,Changer la variation de chaussures.
+BUTTON,2800578517,Accessoire,Changer le type d'accessoire.
+BUTTON,640656286,Variation d'accessoire,Changer la variation d'accessoire.
+BUTTON,1907633128,Sous-chemise,Changer le type de sous-chemise.
+BUTTON,2166748529,Variation de sous-chemise,Changer la variation de sous-chemise.
+BUTTON,3500278219,Insigne,Changer le type d'insigne.
+BUTTON,1949487924,Variation d'insigne,Changer la variation d'insigne.
+BUTTON,162447773,Torse 2,Changer le type de torse 2.
+BUTTON,4205053047,Variation de torse 2,Changer la variation de torse 2.
+FLOAT_TOGGLE,939397576,Champ de vision,Changer le champ de vision de votre caméra.
+TOGGLE,280961148,Autoriser les tenues restreintes,Mieux vaut l'éteindre lorsque vous allez changer de vêtements en magasin ou dans un endroit similaire autre que le menu.
+TOGGLE,2369496051,Activer Nuke God,Écrée une explosion autour de votre personnage.
+FLOAT,387523781,Distance,Distance depuis laquelle l'explosion aura lieu.
+FLOAT,864838829,Hauteur,Hauteur de l'explosion en fonction de votre position.
+INT,1785191214,Nombre d'angles,Nombre maximum d'angles pour l'explosion : 360.
+TOGGLE,2343567821,Son,Activer ou désactiver les sons d'explosion.
+TOGGLE,888186744,Invisible,Activer ou désactiver la visibilité de l'explosion.
+TOGGLE,1473345832,Dommages,Activer ou désactiver les dégâts de l'explosion.
+INT_SLIDER,2301978633,Secousse,Secousse de l'explosion.
+INT,4052457268,Explosion sélectionnée,Explosion nucléaire.
+TOGGLE_INT_SLIDER,3258412492,Activer le bouclier,Vous pouvez également renforcer la force du bouclier.
+TOGGLE,3280283636,Inclure les véhicules,Inclure les véhicules dans le bouclier.
+TOGGLE,683449558,Inclure les piétons,Inclure les piétons dans le bouclier.
+FLOAT,2434410528,Portée,Définir la distance à partir de laquelle le bouclier fonctionnera.
+TOGGLE,3105648275,Conserver la sphère de portée,Garde le dessin de la distance de portée.
+TOGGLE_INT_SLIDER,390801829,Sphère arc-en-ciel,La sphère changera continuellement de couleurs.
+TOGGLE,2547827508,Maintenir l'état de calme,Vous ne serez pas agité lorsque des tirs auront lieu à proximité.
+TOGGLE_INT_SLIDER,1602179977,Activer le remplacement du style de marche,Le mouvement de votre personnage sera changé en celui sélectionné.
+TOGGLE_INT_SLIDER,3469897008,Activer le remplacement du style de tenue d'arme,Le style de tenue d'arme de votre personnage sera changé en celui sélectionné.
+TOGGLE_INT_SLIDER,2763215466,Activer le remplacement du style d'arme,Le style d'arme de votre personnage sera changé en celui sélectionné.
+BUTTON,4026390047,Propre,Votre personnage sera propre comme à la naissance.
+BUTTON,2156003739,Arrêter les animations,Votre personnage ne jouera plus aucune animation.
+SUB,1296927510,Reconstitution automatique,Remplit automatiquement votre santé ou votre armure.
+TOGGLE,3570626181,Activer la reconstitution automatique,Active la fonction qui remplit automatiquement votre santé ou votre armure.
+TOGGLE_INT_SLIDER,1287763181,Remplir la santé,Activer le remplissage de la santé.
+TOGGLE_INT_SLIDER,2368717945,Remplir l'armure,Activer le remplissage de l'armure.
+TOGGLE,359303365,Remplir en étant à couvert,La santé et l'armure se rempliront si vous êtes à couvert.
+TOGGLE,711961449,Remplir en étant blessé,La santé et l'armure se rempliront lorsque votre personnage est blessé.
+TOGGLE,555559719,Remplir en sautant,La santé et l'armure se rempliront lorsque votre personnage saute.
+TOGGLE,3408774584,Remplir en étant dans un véhicule,La santé et l'armure se rempliront lorsque votre personnage est dans un véhicule.
+TOGGLE,1531862229,Remplir autrement,La santé et l'armure se rempliront dans tous les autres cas.
+TOGGLE_INT_SLIDER,2902517857,Friction accrue,Friction accrue au sol.
+TOGGLE,1924119036,Atterrissage gracieux,Permet un atterrissage gracieux.
+SUB,3134356633,Super Parachutisme,Parachutisme divin.
+TOGGLE,1784421718,Activer le super parachutisme,Active le super parachutisme.
+FLOAT,3705396572,Facteur de vitesse vers l'avant,Multiplication de la vitesse vers l'avant du parachutisme. (W ou joystick vers l'avant)
+FLOAT,3695454684,Facteur de vitesse vers l'arrière,Multiplication de la vitesse vers l'arrière du parachutisme. (S ou joystick vers l'arrière)
+FLOAT,168040052,Multiplicateur de vitesse vers le haut,Multiplication de la vitesse vers le haut du parachutisme. (Maj gauche ou bouton de saut sur la manette)
+FLOAT,1016793827,Multiplicateur de vitesse vers le bas,Multiplication de la vitesse vers le bas du parachutisme. (Ctrl gauche ou bouton de canard sur la manette)
+FLOAT,2699306219,Boost de force,Force de boost du parachutisme.
+TOGGLE,3009434437,Marcher sur l'air,Permet de marcher sur l'air.
+TOGGLE,469049743,Nager partout,Permet de nager partout.
+TOGGLE,431426021,Devenir ivre,Votre personnage sera ivre.
+TOGGLE,4188466577,Mode tennis,Se déplacer comme si vous étiez dans un match de tennis.
+TOGGLE,2930324654,Immobiliser,Immobilisez-vous ! Restez immobile à votre position actuelle.
+TOGGLE,2702638218,Grâce,Maintenez un environnement propre pour votre personnage. Gardez-le propre et sans saleté.
+SUB,355181074,En ligne,Options liées au réseau.
+SUB,1111685103,Sélectionner un joueur,Liste des joueurs à troller.
+SUB,3460967848,Rejoindre rapidement,Rejoindre rapidement une session.
+SUB,1057012078,Protections,Protège contre les autres moddeurs.
+SUB,177913039,Recovery,Augmentez les statistiques du jeu ou ajoutez de l'argent.
+SUB,273245030,Argent,Ajoutez de l'argent à votre compte.
+SUB,2323599503,Alertes de modding,Active/désactive les notifications de détection des moddeurs pour les joueurs.
+SUB,2803901075,Hors radar,Vous n'apparaissez pas sur la carte et êtes invisible sur la carte !
+TOGGLE,1115324473,Activer le hors-radar,Vous n'apparaissez pas sur la carte.
+SUB,3339736140,Soudoyer les flics,Lester Crest éloignera les flics de vous.
+TOGGLE,932909102,Activer la corruption des flics,Version Lester de "jamais recherché".
+TOGGLE,102448110,Révéler les joueurs,Version Lester. Vous aide probablement en deathmatch.
+TOGGLE,1399477630,Bouton,Appuyez sur n'importe quel type de session que vous aimez.
+TOGGLE,3373489300,Tuer le joueur quand il tire (Lobby),Les joueurs seront tués quand ils tirent.
+TOGGLE,2097535589,Éviter l'expulsion,Vous ne serez pas expulsé lorsque vous êtes inactif. Mais doit être dans la fenêtre du jeu.
+TOGGLE,2288729196,Respawn rapide,Vous réapparaîtrez plus rapidement lorsque vous mourrez.
+BUTTON,1068831776,Cloner le lobby,Votre jeu se figera pendant 8 secondes. Cela vous déconnectera et clonera le même lobby.
+BUTTON,3017018139,Aucun temps de recharge du canon orbital,Le canon orbital n'aura aucun temps de recharge. Il sera instantané.
+BUTTON,4056605146,Bullshark sans fin,Le Bullshark ne se terminera jamais. Vous continuerez à le recevoir.
+INT_SLIDER,1373380299,Fondu de fantôme,Votre joueur continuera à s'estomper.
+SUB,2632166930,Téléportation,Options liées à la téléportation.
+TOGGLE,3422749264,Waypoint automatique,Initie automatiquement la téléportation vers le marqueur de waypoint.
+BUTTON,2341715471,Vers le Waypoint,Initie la téléportation vers le marqueur de waypoint.
+BUTTON,3539652243,Vers l'objectif,Initie la téléportation vers le marqueur d'objectif.
+BUTTON,83198459,Vers le dernier véhicule,Initie la téléportation vers le dernier véhicule.
+SUB,2137689072,Maison sécurisée de l'histoire,Gérez les options de votre maison sécurisée.
+SUB,4123332158,Téléport de repère,Téléportez-vous vers des repères.
+SUB,3026357000,Téléportation dans le ciel,Téléportez-vous vers des endroits en haute altitude.
+SUB,184294395,Téléportation sous-marine,Téléportez-vous vers des endroits sous-marins.
+SUB,1625740102,Téléportation intérieure,Téléportez-vous vers des endroits intérieurs.
+BUTTON,1462334285,Téléportation,Initie la téléportation vers l'emplacement sélectionné.
+SUB,3086209855,Modificateurs,Paramètres qui modifient les caractéristiques des armes.
+SUB,2663546784,Armes,Options liées aux armes à feu.
+SUB,1789127839,Air,Sélectionnez n'importe quelle explosion liée à l'air dans le jeu.
+SUB,1701243271,Véhicule terrestre,Sélectionnez n'importe quelle explosion liée à un véhicule terrestre dans le jeu.
+SUB,439359128,Projectile,Sélectionnez n'importe quelle explosion liée à un projectile dans le jeu.
+SUB,1044117099,Environnement,Sélectionnez n'importe quelle explosion liée à l'environnement dans le jeu.
+SUB,1325623561,Spécial,Sélectionnez n'importe quelle explosion spéciale dans le jeu.
+SUB,827638929,Eau,Sélectionnez n'importe quelle explosion liée à l'eau dans le jeu.
+SUB,2432618839,EMP,Sélectionnez n'importe quelle explosion liée à l'EMP dans le jeu.
+SUB,3766841388,Grappe,Sélectionnez n'importe quelle explosion liée à une grappe dans le jeu.
+SUB,910281512,Mine,Sélectionnez n'importe quelle explosion liée à une mine dans le jeu.
+SUB,4193569084,0XNONEEDTOCHANGEME01,SAMEHERELMAFO.
+SUB,4080376322,Changer Projectile,Sélectionnez n'importe quel projectile dans le jeu.
+SUB,3444610899,Sélection individuelle,Sélectionnez n'importe quelle arme dans le jeu.
+SUB,1943575419,Dernières armes,Armes qui ont été récemment ajoutées au jeu.
+SUB,812940881,Attaques,Sélectionnez n'importe quelle arme de mêlée dans le jeu.
+SUB,1033586649,Pistolets,Sélectionnez n'importe quelle arme de poing dans le jeu.
+SUB,417140311,SMG,Sélectionnez n'importe quelle arme SMG dans le jeu.
+SUB,3913419598,Fusils à pompe,Sélectionnez n'importe quelle arme de fusil à pompe dans le jeu.
+SUB,2879629528,Fusils d'assaut,Sélectionnez n'importe quelle arme de fusil d'assaut dans le jeu.
+SUB,3596531609,Fusils de sniper,Sélectionnez n'importe quelle arme de fusil de sniper dans le jeu.
+SUB,4178504359,Mitrailleuses,Sélectionnez n'importe quelle arme de mitrailleuse dans le jeu.
+SUB,125472009,Armes spéciales,Sélectionnez n'importe quelle arme spéciale dans le jeu.
+SUB,2765455609,Armes explosives,Sélectionnez n'importe quelle arme explosive dans le jeu.
+SUB,634677159,Objets divers,Sélectionnez d'autres objets/armes dans le jeu.
+SUB,554499056,Armes de véhicules,Sélectionnez les armes montées sur les véhicules dans le jeu.
+SUB,1229824426,Arme à projectile,Permet l'utilisation de projectiles avec votre arme.
+SUB,2869288480,Supprimer le pistolet,Supprime tout ce que vous tirez.
+TOGGLE,3773123409,Activer l'arme à projectile,Vous permet de tirer des projectiles avec votre arme.
+TOGGLE,3388139895,Projectile détenu,Lorsque vous tuez quelqu'un avec un projectile, cela sera à votre nom.
+TOGGLE,4080262452,Projectile invisible,Le projectile sera invisible.
+TOGGLE,2150195025,Mode frappe aérienne,Le projectile sera tiré du ciel.
+INT_SLIDER,2197547531,Projectile Speed,Ajuste la vélocité des projectiles tirés par votre arme.
+BUTTON,2807113040,Remplir l'inventaire des armes,Vous donne toutes les armes du jeu.
+TOGGLE,1588666787,Pas de recul,Aucun mouvement lors du tir.
+TOGGLE,3178825832,Munitions infinies,Vous donne des munitions illimitées.
+TOGGLE,1386200698,Parachutes infinis,Vous donne des parachutes infinis.
+TOGGLE,2266367393,Pas de rechargement,Ne rechargez jamais votre arme.
+TOGGLE,3494679629,Menottes,Place des menottes à vos poignets.
+TOGGLE,577369668,Auto Kill Enemies,Tue automatiquement tous les ennemis près de vous.
+TOGGLE,2762895154,Accès aux armes intérieures,Libérez-vous des restrictions et utilisez votre arsenal même dans des environnements confinés.
+TOGGLE_INT_SLIDER,645919501,Tir rapide,Ce que sainan a comme problème de compétence et taux. Ne fonctionnera pas avec le pistolet de proximité.
+TOGGLE,3941970460,Poing explosif,Vous donne un coup explosif.
+TOGGLE,3081721586,Munitions explosives,Vous donne des munitions explosives.
+TOGGLE,1357880625,Munitions en feu,Enflamme tout ce que vous tirez.
+TOGGLE_INT_SLIDER,347268454,Camo arc-en-ciel,Change la camo en boucle.
+TOGGLE,826042903,Peau invisible,Active/désactive la visibilité de la peau de votre arme.
+TOGGLE,2554721205,Remplissage automatique de l'inventaire des armes,Reconstitue automatiquement votre inventaire avec les armes manquantes.
+FLOAT_TOGGLE,3159687176,Multiplier des dégâts,Multiplie la quantité de dégâts.
+TOGGLE,104732182,Portée infinie,La portée de l'arme est augmentée, les balles iront loin.
+TOGGLE,699155839,Portée infinie de verrouillage,Vous pouvez verrouiller loin.
+TOGGLE,3301048613,Désactiver le roulis de combat,Désactive le roulis de combat.
+TOGGLE,904928295,Modded Combat Roll,Le roulis de combat n'a plus de temps de recharge.
+SUB,1932175142,Pistolet de proximité,Cible et tire sur les entités proches si l'entrée de visée est pressée.
+TOGGLE,3215593676,Activer,Cible et tire sur les entités proches si l'entrée de visée est pressée.
+SUB,3937025852,Couleur des lignes,Change la couleur des lignes.
+SUB,1811547745,Couleur des marqueurs,Change la couleur des marqueurs.
+TOGGLE_INT_SLIDER,2781628667,Activer le pistolet de suppression,Si la force est réglée sur 0, il [pistolet de suppression normal]. Si plus devient un pistolet de suppression de plage.
+TOGGLE_INT_SLIDER,1650063079,Marqueur de plage arc-en-ciel,Le marqueur de plage du pistolet de suppression changera de couleur en RVB.
+TOGGLE,320686095,Arme à feu de téléportation,Vous transporte instantanément à l'endroit où vos tirs atterrissent.
+SUB,1400495168,Changer d'explosion,Sélectionnez une explosion.
+SUB,3639427522,Munitions explosives,Crée une explosion à l'endroit où vous tirez.
+TOGGLE,1128353084,Activer les munitions explosives,Crée une explosion à l'endroit où vous tirez.
+FLOAT_SLIDER,4094774636,Échelle de dégâts,Ajuste l'échelle des dégâts de l'impact de vos tirs sur l'environnement.
+TOGGLE,1907862857,Impact audible,Rend l'impact de vos tirs sur l'environnement audible.
+TOGGLE,99428181,Impact invisible,Rend l'impact de vos tirs sur l'environnement invisible.
+TOGGLE,1744262349,Aucun dégât à l'impact,Désactive les dégâts causés par l'impact de vos tirs sur l'environnement.
+FLOAT_SLIDER,273265928,Secousse de caméra,Contrôle la quantité de secousse de caméra lorsque vos tirs touchent l'environnement.
+TOGGLE,2016028183,Mode clown,Produit des explosions violettes à l'impact, des effets d'arme de style comique, un son d'impact de balle et un effet de sang unique.
+TOGGLE,1441768029,Yeux laser,Vous tirerez un laser rouge de vos yeux comme Superman ou Homelander.
+TOGGLE_INT_SLIDER,4220259983,Super Punch,Votre force de coup de poing est surpuissante.
+SUB,2447640702,Trails de grenade,Crée des traînées lorsque vous lancez une grenade.
+TOGGLE,3005985296,Trails de grenade,Active les traînées sur les grenades.
+TOGGLE_INT_SLIDER,599516101,Arc-en-ciel,Arc-en-ciel fx pour les trails de grenades.
+SUB,1283680301,Arme d'artillerie,Pluie d'explosions massives.
+SUB,2670306567,Aimbot,C'est exactement ce que ça dit.
+TOGGLE_INT_SLIDER,92695804,Viseurs d'artillerie arc-en-ciel,Arc-en-ciel fx pour les viseurs d'artillerie.
+TOGGLE_INT_SLIDER,1942942295,Activer le pistolet d'artillerie,Tire des obus là où vous visez.
+TOGGLE_INT_SLIDER,1218370952,Multiplicateur de force des balles,La force des balles est augmentée à un taux plus élevé.
+TOGGLE_INT_SLIDER,292944348,Gun Haven,L'entité que vous visez sera projetée vers le paradis.
+TOGGLE,216576289,Pistolet Drive It,Téléporte votre ped dans le véhicule que vous visez.
+TOGGLE,2490922828,Pistolet Minecraft,Vous permet de faire apparaître des blocs comme dans Minecraft.
+TOGGLE,3905231001,Mode Tryhard,Vous mourrez instantanément après avoir tiré.
+TOGGLE,3575818396,Pistolet de réanimation,Le ped mort que vous visez recommencera à vivre.
+TOGGLE,1002425834,Activer Aimbot,Active/désactive le tricheur Aimbot.
+FLOAT_TOGGLE,786402760,Fov,Définir le champ de vision lors de la visée.
+TOGGLE,707709088,Inclure la police,Inclut la police dans le viseur automatique.
+TOGGLE,851394855,Inclure les amis,Inclut les amis dans le viseur automatique.
+TOGGLE,2641585083,Inclure les ennemis,Inclut les ennemis dans le viseur automatique.
+TOGGLE,642859117,Inclure l'armée,Inclut l'armée dans le viseur automatique.
+TOGGLE,970264105,Inclure le médecin,Inclut les médecins dans le viseur automatique.
+TOGGLE,237155986,Inclure le pompier,Inclut les pompiers dans le viseur automatique.
+TOGGLE,3351290,Inclure les animaux,Inclut les animaux dans le viseur automatique.
+TOGGLE,2917934526,Inclure prostituée,Inclut les prostituées dans le viseur automatique.
+TOGGLE,154497594,Inclure les criminels,Inclut les criminels dans le viseur automatique.
+TOGGLE,2301924315,Inclure SWAT,Inclut les membres du SWAT dans le viseur automatique.
+TOGGLE,3949437048,Inclure les PNJ de mission,Inclut les PNJ de mission dans le viseur automatique.
+TOGGLE,741819638,Inclure les joueurs,Inclut les joueurs dans le viseur automatique.
+TOGGLE,2245491460,Inclure les autres,Inclut d'autres PNJ étrangers dans le viseur automatique.
+TOGGLE,3424622864,Bot de déclenchement,Lorsque vous visez un PNJ, vous tirerez automatiquement. Vous pouvez également régler la force du viseur automatique.
+SUB,2294658384,Pistolet à gravité,Le pistolet à gravité vous permet de ramasser et de jeter des entités.
+TOGGLE,864245998,Activer le pistolet à gravité,Active le pistolet à gravité.
+TOGGLE,2101754631,Désactiver la force de ramassage,Aucune application de force lors du ramassage d'une entité.
+FLOAT,946561005,Distance de l'entité,Distance à laquelle l'entité visée et ramassée restera près de vous.
+FLOAT,1493880674,Force en mouvement,La quantité de force exercée lors du ramassage et du déplacement d'une entité.
+FLOAT,1014776901,Multiplier la force de jet,La quantité de force appliquée lors du jet d'une entité.
+SUB,2987902768,Pistolet de cadeaux du Père Noël,Les cadeaux descendront du ciel comme cibles pour un plaisir de tir ! XD
+TOGGLE,1808496827,Activer le pistolet de cadeaux du Père Noël,Les cadeaux descendront du ciel comme cibles pour un amusement de tir.
+FLOAT,1272595764,Force du cadeau,La quantité de force appliquée au cadeau.
+FLOAT,76669823,Taille de l'effet de particules du cadeau,La taille de l'effet de particules lorsque le cadeau est largué.
+TOGGLE,3109546925,Audio de l'explosion,Lorsque le cadeau entre en contact, il génère une explosion audible.
+TOGGLE,1655308733,Explosion visible,Lorsque le cadeau entre en contact, il déclenche une explosion qui devient visible.
+TOGGLE,790831400,Activer le pistolet de hachage,Activer la visibilité des valeurs de hachage pour les entités en jeu.
+SUB,2014990243,Pistolet de hachage,Il offre la possibilité de visualiser et d'inspecter les valeurs de hachage des entités en jeu.
+TOGGLE,2700026866,Passer à Hex Hash,Exemple hex est (0x539) & normal est (1337).
+TOGGLE,1230903610,Afficher le cap,Afficher la position de rotation de lacet de l'entité.
+TOGGLE,2628206305,Afficher les coordonnées,Affiche les coordonnées de l'entité.
+SUB,3125361952,Couleur du texte,Changez la couleur des polices pour le hachage.
+TOGGLE_INT_SLIDER,2320024861,Texte arc-en-ciel,FX arc-en-ciel pour le texte de hachage.
+SUB,3800490321,Véhicule,Options liées à la voiture.
+SUB,857356631,Modificateur,Multitude de fonctions pour élever votre expérience de véhicule au niveau supérieur.
+SUB,4048481646,Paramètres d'apparition,Paramètres liés à l'apparition des véhicules.
+SUB,559541862,Los Santos Customs,Permet de modifier les véhicules gratuitement et sans avoir besoin d'aller chez LS Customs.
+SUB,2884432789,Blindage,Résistance du véhicule.
+SUB,2263663493,Freins,Force de freinage du véhicule.
+SUB,1699832268,Transmission,Améliorations de la transmission du véhicule.
+SUB,4139776839,Suspension,Hauteur de suspension du véhicule.
+SUB,1551732684,Klaxons,Sons de klaxon du véhicule.
+SUB,3387244764,Vitres teintées,Vitres teintées du véhicule.
+SUB,2857521373,Type de plaques d'immatriculation,Changez le type de plaques d'immatriculation.
+BUTTON,3980423474,Changer le texte de la plaque,Changez le texte de la plaque d'immatriculation.
+SUB,4052003691,Aileron,Sélection de l'aileron du véhicule.
+SUB,3628599624,Pare-chocs avant,Personnalisez le pare-chocs avant du véhicule.
+SUB,1083873612,Pare-chocs arrière,Personnalisez le pare-chocs arrière du véhicule.
+SUB,2488722576,Jupes latérales,Personnalisez les jupes latérales du véhicule.
+SUB,2626154204,Échappement,Personnalisez l'échappement du véhicule.
+SUB,2359953465,Châssis,Personnalisez le châssis du véhicule.
+SUB,2533549054,Calandre,Personnalisez la calandre du véhicule.
+SUB,4024531519,Capot,Personnalisez le capot du véhicule.
+SUB,3457548172,Aile,Personnalisez l'aile du véhicule.
+SUB,4204947556,Aile droite,Personnalisez l'aile droite du véhicule.
+SUB,492382196,Toit,Personnalisez le toit du véhicule.
+SUB,3370349657,Livraison,Personnalisez la livraison du véhicule.
+SUB,869890843,Nitro,Installez un système de nitro dans le véhicule.
+SUB,485334744,Turbo,Installez un turbocompresseur dans le véhicule.
+SUB,3318887200,Subwoofer,Installez un subwoofer dans le véhicule.
+SUB,119969601,Roues,Parcourir les roues pour le véhicule.
+SUB,1699106977,Sport,Parcourir les roues sport pour le véhicule.
+SUB,51614090,Muscle,Parcourir les roues muscles pour le véhicule.
+SUB,1571441787,Lowrider,Parcourir les roues lowriders pour le véhicule.
+SUB,2784064750,SUV,Parcourir les roues SUV pour le véhicule.
+SUB,4082399677,Offroad,Parcourir les roues tout-terrain pour le véhicule.
+SUB,4289898682,Tuner,Parcourir les roues tuner pour le véhicule.
+SUB,1384823624,Roues de vélo,Parcourir les roues de vélo pour le véhicule.
+SUB,1100574670, Haut de gamme, Parcourir les roues haut de gamme pour le véhicule.
+SUB,870286612, Roues de Benny, Parcourir les roues de Benny pour le véhicule.
+SUB,3814829306, Roues sur mesure, Parcourir les roues sur mesure pour le véhicule.
+SUB,3174555767, Roues de rue, Parcourir les roues de rue pour le véhicule.
+SUB,3890772421, Roues de piste, Parcourir les roues de piste pour le véhicule.
+SUB,361624904, Véhicule, Multiplicateurs de vitesse et de freinage des véhicules au sol.
+FLOAT_TOGGLE,3374864328, Multiplicateur d'accélération des véhicules, Le véhicule ira plus vite.
+FLOAT_TOGGLE,2355623971, Multiplicateur de freinage des véhicules, Le véhicule freinera plus rapidement.
+TOGGLE,3095848202, Vérification au sol du véhicule, Les multiplicateurs d'accélération et de freinage des véhicules ne s'appliqueront que lorsque toutes les roues toucheront le sol.
+SUB,1715505588, Vélo & Bicyclette, Multiplicateurs de vitesse et de freinage des vélos.
+FLOAT_TOGGLE,995224771, Multiplicateur d'accélération des vélos, Le vélo ira plus vite.
+FLOAT_TOGGLE,550996972, Multiplicateur de freinage des vélos, Le vélo freinera plus rapidement.
+TOGGLE,1245054866, Vérification au sol du vélo, Les multiplicateurs d'accélération et de freinage des vélos ne s'appliqueront que lorsque toutes les roues toucheront le sol.
+SUB,897311617, Avion, Multiplicateurs de vitesse et de freinage des avions.
+FLOAT_TOGGLE,358453305, Multiplicateur d'accélération des avions, L'avion ira plus vite.
+FLOAT_TOGGLE,3023568597, Multiplicateur de freinage des avions, L'avion freinera plus rapidement.
+TOGGLE,3625387352, Vérification au sol de l'avion, Les multiplicateurs d'accélération et de freinage des avions ne s'appliqueront que lorsque toutes les roues toucheront le sol.
+SUB,4088238878, Hélicoptère, Multiplicateurs de vitesse et de freinage des hélicoptères.
+FLOAT_TOGGLE,3734548250, Multiplicateur d'accélération des hélicoptères, L'hélicoptère ira plus vite.
+FLOAT_TOGGLE,289338942, Multiplicateur de freinage des hélicoptères, L'hélicoptère freinera plus rapidement.
+TOGGLE,3687257974, Vérification au sol de l'hélicoptère, Les multiplicateurs d'accélération et de freinage de l'hélicoptère ne s'appliqueront que lorsqu'il n'est pas près du sol.
+SUB,132816897, Bateau & Jetski, Multiplicateurs de vitesse et de freinage des bateaux et jetskis.
+FLOAT_TOGGLE,3553657613, Multiplicateur d'accélération des bateaux et jetskis, Le bateau et le jetski iront plus vite.
+FLOAT_TOGGLE,1795681923, Multiplicateur de freinage des bateaux et jetskis, Le bateau et le jetski freineront plus rapidement.
+TOGGLE,2451402732, Vérification au sol des bateaux et jetskis, Les multiplicateurs d'accélération et de freinage des bateaux et jetskis ne s'appliqueront que lorsqu'ils sont près de l'eau.
+TOGGLE_INT_SLIDER,31604147, Capacité de saut améliorée, Active la capacité de saut pour votre véhicule, appuyez sur espace pour le clavier et X sur la manette.
+TOGGLE,584225084, Contourner la vitesse maximale, Le véhicule n'aura pas de limite de vitesse.
+SUB,3311772331, Spawnner de véhicules, Fait apparaître n'importe quelle voiture dans le jeu.
+SUB,3311518121, Véhicules XML - (Menyooo), Fait apparaître n'importe quel véhicule modifié Menyooo ou XML dans le jeu.
+SUB,211898199, Véhicules., Fait apparaître des sortes de véhicules que vous aimez dans le jeu.
+SUB,948795801, Apparence, Options liées à l'apparence de la voiture.
+SUB,1137501058, Couleur personnalisée principale, Vous permet de choisir la couleur RGB de votre voiture.
+SUB,3585562972, Capacités, Les capacités vous permettent de donner un parachute, un boost et plus encore à votre véhicule.
+FLOAT,3683065993, Vitesse de départ en roue arrière, Vitesse à laquelle la roue arrière commencera.
+FLOAT,2202612019, Force en roue arrière, Force de la roue arrière. Plus elle est forte, plus elle est puissante.
+INT,3926152347, -SAV--, -SAV--
+INT,915575114, -SAV--, -SAV--
+SUB,2834996728, Multiplicateurs, Multiplicateurs de vitesse et de freinage.
+SUB,2929638311, Plus de drapeaux, Plus de drapeaux de véhicule alias capacités, mais ceux-ci ne sont pas sauvegardables dans le menu.
+SUB,1970232450, Échanger les armes de véhicule, Échange les armes de véhicule uniquement si votre véhicule en a une.
+SUB,2084647085, Véhicules aériens, Armes de véhicules aériens.
+SUB,3213564577, Véhicules terrestres, Armes de véhicules terrestres.
+SUB,3859415200, Motos terrestres, Armes de véhicules terrestres.
+SUB,955628985, Véhicules marins, Armes de véhicules marins.
+SUB,537648867, Armes spéciales de véhicules, Certaines armes de véhicules spéciales.
+BUTTON,2055817809, Échanger l'arme de véhicule, Échange l'arme actuelle de votre véhicule par celle sélectionnée.
+BUTTON,2410729132, Appliquer la couleur, La couleur choisie actuelle sera appliquée.
+SUB,1267365120, Couleur personnalisée secondaire, Vous permet de choisir la couleur RGB de votre voiture.
+SUB,1938663667, Klaxon boost, Le klaxon boost vous permet de booster le véhicule en appuyant sur le klaxon.
+TOGGLE,955507827, Activer le klaxon boost, Lorsque vous appuyez sur le klaxon, la vitesse de votre véhicule augmentera.
+TOGGLE,1630036485, Désactiver le klaxon, Désactive le son du klaxon lors de l'utilisation du klaxon boost.
+INT,3935536704, Ajuster la vitesse, Changez la vitesse du boost lors du klaxon.
+TOGGLE,2870182982, Effet d'écran du boost, Désactiver/Activer l'effet d'écran lors du klaxon boost.
+TOGGLE,899542180, Particules du boost, Désactiver/Activer les particules lors du klaxon boost.
+TOGGLE,2711533555, Appliquer uniquement lorsque sur le sol, Ajoute une vérification du sol lors de l'utilisation du klaxon boost.
+TOGGLE,3949495683, Activer le mode Nitro, Désactiver/Activer les particules lors du klaxon boost.
+BUTTON,3810963117, Appliquer la couleur, La couleur choisie actuelle sera appliquée.
+BUTTON,1029427280, Entrée Spawn, Fait apparaître un véhicule en entrant son nom.
+TOGGLE,2590329130, Aperçu des modèles, Vous pourrez voir les modèles de véhicules.
+TOGGLE,3390527758, Mode invincible, Votre voiture ne mourra pas.
+TOGGLE,2458034239,Peau morte,Rend votre véhicule visible comme mort.
+TOGGLE,1334182400,Conduite sous l'eau,Rend votre véhicule conduisible dans l'eau.
+TOGGLE,632311673,Désactiver la collision,Rend votre véhicule sans collision. Permet d'aller sous la carte.
+TOGGLE,3737207443,Anti-Verrouillage,Les joueurs ne pourront pas vous verrouiller.
+TOGGLE,3210544155,Garder les portes verrouillées,Rend les portes de votre véhicule verrouillées.
+SUB,3175533530,Vol en véhicule,Permet de voler autour de votre véhicule de manière folle.
+TOGGLE,3036516142,Activer le vol en véhicule,Contrôles : Accélérer, Reculer, S'accroupir, E (RB), Q (LB).
+FLOAT,392756980,Vitesse vers l'avant en vol de véhicule,Changez la vitesse du véhicule lorsqu'il vole vers l'avant. Contrôle : Accélérer
+FLOAT,1903778125,Vitesse vers l'arrière en vol de véhicule,Changez la vitesse du véhicule lorsqu'il vole vers l'arrière. Contrôle : Reculer
+FLOAT,929447967,Vitesse de montée en vol de véhicule,Changez la vitesse du véhicule lors de l'appui sur la touche d'accroupissement.
+FLOAT,650015820,Vitesse de virage à gauche en vol de véhicule,Changez la vitesse du véhicule lors de l'appui sur la touche de gauche.
+FLOAT,3170887916,Vitesse de virage à droite en vol de véhicule,Changez la vitesse du véhicule lors de l'appui sur la touche de droite.
+FLOAT,3084445172,Vitesse de rotation en vol de véhicule,Changez la vitesse de rotation du véhicule lorsqu'il vole. Contrôle : E (RB) & Q (LB)
+TOGGLE,3295916974,Voler lorsqu'il est soulevé du sol,Un contrôle pour faire voler le véhicule uniquement lorsqu'il est soulevé du sol. Contrôles : Accélérer
+TOGGLE,2148858285,Vol gravitationnel,Contrôles : Accélération, Recul, S'accroupir. Remarque : la valeur par défaut est un vol avancé et vous ne pouvez utiliser qu'un seul mode.
+FLOAT,24583146,Multiplicateur de vitesse global du mode No Clip,Multiplier la vitesse de non-collision.
+TOGGLE,1451636461,Entrée instantanée,Entrée instantanée dans le véhicule.
+TOGGLE,1334657586,Sortie instantanée,Sortie instantanée du véhicule.
+TOGGLE,2242208322,Inverser les contrôles,Inverser les contrôles du véhicule.
+TOGGLE,1942293337,Conduire à travers les entités,Activer le passage à travers les objets, les véhicules et les piétons.
+TOGGLE,2414265905,Traces de pneus dans la neige,Activer les effets visuels de pneus dans la neige sur le sol.
+TOGGLE,376460354,Ceinture de sécurité,Empêche les chutes des vélos et les éjections à travers les pare-brise.
+TOGGLE,2457803195,Désactiver la gravité,Désactiver la gravité pour le véhicule.
+TOGGLE,258744847,Collant,Le véhicule reste collé à la route.
+TOGGLE,3577744709,Activer le mode dérive,Le véhicule a tendance à dériver plus que vous ne le souhaitez.
+TOGGLE,3651418225,Passager du conteneur de moto,Fonction d'origine qui vous donne la possibilité de monter sur un conteneur avec une moto.
+TOGGLE_INT_SLIDER,4137328485,Définir l'alpha,Ajuste la transparence (alpha) du véhicule.
+TOGGLE,3547482422,Invisible,Basculez la visibilité du véhicule.
+TOGGLE,2983139302,Compteur de vitesse,C'est un compteur de vitesse cool.
+TOGGLE,4208963774,Anti-crevaison des pneus,S'assure que les pneus restent intacts et fonctionnels tout au long du trajet.
+TOGGLE_INT_SLIDER,758441041,Primaire arc-en-ciel,Arc-en-ciel la couleur principale de votre voiture.
+TOGGLE_INT_SLIDER,3136587881,Secondaire arc-en-ciel,Arc-en-ciel la couleur secondaire de votre voiture.
+FLOAT_SLIDER,688123353,Niveau de saleté,Ajuste la saleté sur le véhicule.
+TOGGLE_INT_SLIDER,1579869262,Multiplicateur de phares,Ajuste l'intensité des phares, efficace en mode local uniquement.
+TOGGLE,474624995,Réparation automatique,Répare automatiquement votre véhicule en cas de dommages.
+TOGGLE,4282485515,Carrosserie robuste,La carrosserie de votre véhicule sera plus résistante.
+TOGGLE,1686156832,Super système d'échappement,Votre véhicule fera plus de pops. Spammez cette accélération et le frein à main.
+TOGGLE_INT_SLIDER,2703622903,Modèle de réservoir,Votre véhicule est lourd et plus résistant.
+BUTTON,2169542091,Laver & Sécher,Rend votre véhicule exempt de saleté.
+BUTTON,3115821219,Réparer les bosses,Votre carrosserie de véhicule est endommagée ? Appuyez sur moi pour la réparer.
+BUTTON,255151345,Réparer entièrement la santé & la carrosserie,Votre véhicule est entièrement endommagé ? Appuyez sur moi pour le réparer.
+BUTTON,386357356,Améliorer,Cela améliore votre véhicule à ses spécifications maximales.
+SUB,3783286752,Néons,Changez l'état ou la couleur des néons sur le véhicule.
+SUB,3799354924,Smash Hit,Vous permet de frapper d'autres voitures avec la vôtre.
+TOGGLE_INT_SLIDER,4104291920,Gauche,Frappes à gauche. Utilisez la flèche gauche sur le clavier ou la flèche gauche sur la manette.
+TOGGLE_INT_SLIDER,1910312244,Droite,Frappes à droite. Utilisez la flèche droite sur le clavier ou la flèche droite sur la manette.
+TOGGLE_INT_SLIDER,354686792,Avant,Frappes avant. Utilisez la flèche avant sur le clavier ou la flèche avant sur la manette.
+TOGGLE_INT_SLIDER,3156408511,Arrière,Frappes arrière. Utilisez la flèche arrière sur le clavier ou la flèche arrière sur la manette.
+SUB,1855600598,Contrôleur de retournement,Retourne le véhicule pendant l'exécution comme vous le souhaitez.
+TOGGLE_INT_SLIDER,3842956047,Gauche,Retournements à gauche. Utilisez la flèche vers le haut sur le clavier ou la flèche vers le haut sur la manette.
+TOGGLE_INT_SLIDER,1788281906,Droite,Retournements à droite. Utilisez la flèche vers le bas sur le clavier ou la flèche vers le bas sur la manette.
+TOGGLE_INT_SLIDER,3327787271,Avant,Retournements avant. Utilisez X sur le clavier ou A sur la manette.
+TOGGLE_INT_SLIDER,1076013441,Arrière,Retournements arrière. Utilisez la flèche R sur le clavier ou B sur la manette.
+TOGGLE_INT_SLIDER,2956661745,Rouler à gauche,Rouler à gauche. Utilisez la flèche gauche sur le clavier ou la flèche gauche sur la manette.
+TOGGLE_INT_SLIDER,3289041970,Rouler à droite,Rouler à droite. Utilisez la flèche droite sur le clavier ou la flèche droite sur la manette.
+TOGGLE,2331238533,Néon gauche,Changez l'état du néon.
+TOGGLE,2703480476,Néon droit,Changez l'état du néon.
+TOGGLE,2833757170,Néon avant,Changez l'état du néon.
+TOGGLE,2334043742,Néon arrière,Changez l'état du néon.
+BUTTON,2551278828,Appliquer la couleur des néons,Change la couleur des néons s'il est activé.
+TOGGLE_INT_SLIDER,2455879769,Arc-en-ciel,Active l'arc-en-ciel néon.
+TOGGLE,2665188854,Pneus Deluxo,Changez l'état du pneu en maintenant la touche H enfoncée sur le clavier.
+TOGGLE_INT_SLIDER,1733597452,Compétence parachute,Donne parachute au véhicule.
+TOGGLE_INT_SLIDER,1164311901,Compétence boost fusée,Donne boost au véhicule.
+TOGGLE,1470249838,Compétence saut,Donne saut au véhicule.
+TOGGLE,1944409459,Compétence rampe buggy,Donne rampe buggy au véhicule.
+TOGGLE,1550014883,Compétence vol Deluxo,Volez comme Deluxo avec n'importe quel véhicule. Maintenez H.
+TOGGLE,2235182265,Compétence vol Oppressor MK2,Volez comme Oppressor MK2 avec n'importe quelle moto.
+TOGGLE,3144073849,Compétence dérapage,Dérapage vroom vroom vroom !.
+SUB,758830937,Splitstream,Active flux derrière le véhicule.
+TOGGLE,1543033333,Activer Splitstreams,Active effet de splitstream.
+TOGGLE_INT_SLIDER,2147137587,Arc-en-ciel Split Streams,Définit split streams en arc-en-ciel.
+TOGGLE,731667403,Max Upgrades,Véhicule maxé.
+TOGGLE,2318330894,Effet de fondu,Véhicule clignote au spawn. En ligne seulement.
+TOGGLE,1356421658,Spawn à l'intérieur,Assis dans le véhicule au spawn.
+TOGGLE,3187945234,Spawn Aircraft In Air,Véhicules aériens spawnent dans l'air.
+TOGGLE,4035979353,Delete Current,Supprime le véhicule actuel.
+TOGGLE,2826535190,Sync Speed,Vitesse du véhicule synchronisée.
+TOGGLE,3449675774,Démarrage instantané,Le moteur démarre automatiquement en entrant.
+TOGGLE,1614253215,Keep Engine Running,Moteur reste en marche en sortant.
+FLOAT_TOGGLE,1844458549,Vehicle Scale,Changer la taille du véhicule.
+FLOAT_TOGGLE,2217597537,Wheel Width,Largeur des roues du véhicule.
+FLOAT_TOGGLE,3999431585,Wheel Height,Hauteur des roues du véhicule.
+BUTTON,3027154051,Flip,Le véhicule est retourné.
+TOGGLE_INT_SLIDER,3605994933,Lasers arc-en-ciel,Lasers changent de couleur.
+FLOAT_TOGGLE,1143258555,Accélération rapide,Véhicule atteint rapidement la vitesse sélectionnée.
+TOGGLE,2449645565,Frein rapide,Véhicule freine instantanément.
+SUB,1466503941,Divers,Modifier divers paramètres dans le monde. Amusez-vous à interagir avec les entités à proximité et plus encore.
+SUB,1417158669,Météo,Ajuster diverses options météo pour une expérience immersive.
+SUB,2228093524,Type,Changer le type de météo.
+SUB,4120604849,ChaosModV,Options chaotiques. Certains peuvent crasher le jeu en ligne. Crédits à [ChaosModV].
+SUB,3598885176,Heure,Modifier des éléments liés au temps.
+SUB,685030068,Perception extra-sensorielle,Dessiner ESP autour des piétons.
+SUB,2263674159,XML Maps,Permet de faire apparaître des cartes XML.
+SUB,2693161122,FX d'écran,Activer les FX d'écran.
+SUB,1411048484,Transitions de scènes,Effets de transition de scène.
+SUB,2651120769,Cinématiques et intros,Effets cinématiques et intros.
+SUB,1388163622,Effets visuels,Effets visuels.
+SUB,699786625,Résultats de mission,Effets de résultats de mission.
+SUB,1190544080,Divers,Fx divers.
+INT,683963302,Heure,Changer les heures du jeu. Temps en jeu.
+INT,2147328527,Minute,Changer les minutes du jeu. Temps en jeu.
+INT,2490387196,Secondes,Changer les secondes du jeu. Temps en jeu.
+TOGGLE,1314364178,Black-Out,Assombrir l'environnement en éteignant toutes les lumières la nuit.
+TOGGLE,912505557,Aucune limite mondiale,Survivre hors limites sans pénalité.
+SUB,3213549280,Cacher l'interface,Options pour masquer l'interface.
+TOGGLE,1492131851,Désactiver toute l'interface,Désactiver HUD complet.
+TOGGLE_INT_SLIDER,1573935737,Tempêtes aléatoires,Générer éclairs et tonnerre spontanés.
+FLOAT_TOGGLE,2397862861,Effet de pluie,Commander la pluie et les flaques à volonté.
+FLOAT_TOGGLE,3105665193,Effet de neige,Modifier la glissance des véhicules.
+BUTTON,4029003905,Skip Cutscene,Passer la cinématique.
+BUTTON,105266520,Météo aléatoire,Changer la météo aléatoirement.
+FLOAT_TOGGLE,1416677551,Force des vagues d'eau,Ajuster les vagues d'eau à proximité.
+TOGGLE_INT_SLIDER,3065250372,Gravité,Changer la gravité mondiale. Impacte piétons et véhicules.
+TOGGLE,3464584070,Zone non restreinte,Vous pourrez entrer dans des zones restreintes sans attirer les flics.
+TOGGLE,1555365870,Pas de trafic,Il n'y aura pas de trafic sur les routes.
+TOGGLE,448368986,Séisme,Secouez les choses avec un séisme chaotique.
+TOGGLE,501700142,Frappes aériennes,Appelez une frappe aérienne dévastatrice.
+TOGGLE,3132235609,Trou noir,Créez un trou noir gravitationnel.
+TOGGLE,1445783406,Accélération,Expérimentez une accélération fulgurante.
+TOGGLE,3057533278,Clone à la mort,Apparaissez un clone à la mort.
+TOGGLE,2317763891,Feux d'artifice,Allumez un spectacle coloré de feux d'artifice.
+TOGGLE,301649942,Force à la première personne,Immergez-vous dans une perspective forcée à la première personne.
+BUTTON,133086275,Remorqué,Simulez le remorquage de votre voiture.
+TOGGLE,185092427,Monde fantôme,Entrez dans une dimension alternative fantomatique.
+TOGGLE,2253524647,Musique intense,Rehaussez l'ambiance avec une musique intense.
+TOGGLE,631553721,Inversion de vélocité,Inverser la vélocité du joueur à l'envers.
+TOGGLE,1944120534,Accessoires bondissants,Faites rebondir et sauter les accessoires du jeu.
+TOGGLE,664256882,Courte distance de rendu,Limitez la portée visuelle avec une faible distance de rendu.
+TOGGLE,2422484750,Pluie de météores,Invoquez une pluie spectaculaire de météores.
+TOGGLE,2486523063,Touche Midas,Transformez tout ce que vous touchez en or avec l'effet Midas.
+TOGGLE,3452746039,Équipe de presse,Eh bro, tu es à la télé.
+TOGGLE,3414577346,Pas de téléphone,Désactive temporairement le téléphone du jeu.
+TOGGLE,759359544,Désactiver le ciel,Supprimez le ciel pour une expérience visuelle unique.
+TOGGLE,2566969538,Autoriser la pause à la mort,Permet l'accès au menu de pause même lorsque votre personnage est décédé.
+TOGGLE,1795199532,Mode émeute,Tous les PNJ deviennent hostiles, les PNJ aléatoires reçoivent des pistolets et des SMG.
+TOGGLE,3935908383,Anti Oppressors,Tue tous les Oppressors MK2/MK dans un rayon d'environ ~200.
+TOGGLE,1916388502,Radio mobile,Activez la radio mobile. Pas besoin d'être dans un véhicule.
+TOGGLE,2711300517,Activer ESP,Révèle tous les piétons à travers les murs et le terrain.
+TOGGLE,2574673325,ESP uniquement sur les joueurs,Révèle tous les joueurs à travers les murs et le terrain.
+TOGGLE,796948464,Dessiner une boîte,Dessinera une boîte autour du piéton.
+TOGGLE,134840923,Dessiner un squelette,Dessinera un squelette sur le piéton.
+TOGGLE,1183462646,Dessiner une barre de santé,Dessinera la santé sur le piéton.
+TOGGLE_INT_SLIDER,2964831739,Boîte ESP arc-en-ciel,Les boîtes passent en mode arc-en-ciel.
+TOGGLE_INT_SLIDER,2704268677,Boîte squelette arc-en-ciel,Les squelettes passent en mode arc-en-ciel.
+TOGGLE_INT_SLIDER,198169282,Activer les effets en boucle,Active les effets visuels en boucle.
+TOGGLE,1101936912,Piratage à la Watch Dogs,Peu importe, c'est mieux que rester debout. Utilisez les touches de visée et d'attaque pour choisir une option.
+BUTTON,4194593500,Fermer,Bouton de fermeture de Watch Dogs.
+BUTTON,3389657848,Exploser,Bouton d'explosion de Watch Dogs.
+BUTTON,1663712064,Transmettre à,Watch Dogs : bouton de transmission.
+BUTTON,1361528628,Geler,Watch Dogs : bouton de gel.
+BUTTON,3933199669,Libérer,Watch Dogs : bouton de libération.
+BUTTON,3672592173,Ragdoll,Watch Dogs : bouton ragdoll.
+BUTTON,1403127378,Sauter !,Watch Dogs : bouton de saut.
+BUTTON,3820407592,Viens !,Watch Dogs : bouton de rappel.
+BUTTON,1529486503,S'asseoir,Watch Dogs : bouton d'assise.
+BUTTON,1565920900,Éteindre,Watch Dogs : bouton d'extinction.
+BUTTON,3991753946,Casser,Watch Dogs : bouton de casse.
+BUTTON,230608647,Réparer,Watch Dogs : bouton de réparation.
+BUTTON,2247165009,Pousser,Watch Dogs : bouton de poussée.
+BUTTON,3229386881,Inverser,Watch Dogs : bouton d'inversion.
+SUB,232072519,Soutien aérien,Appelez un avion de soutien aérien. Cela vous permet de tirer sur les ennemis depuis les airs.
+TOGGLE,4270471820,Activer le soutien aérien,Active/désactive le soutien aérien.
+INT,3365328190,N,n.
+INT_SLIDER,1909110199,Cadence de tir,Ajuste la cadence de tir.
+BREAKER,3499350706,Armes d'avion,0XNULL
+SUB,263157935,Marqueurs d'impact,Lorsqu'une entité perd de la santé ou en gagne, un marqueur d'impact s'affiche sur elle.
+TOGGLE,3518666399,Activer les marqueurs d'impact,Active/désactive la fonction de marqueur d'impact.
+FLOAT,3077024073,Taille du marqueur,Modifie la taille de la police des marqueurs.
+INT_SLIDER,2771532716,Taux de disparition,Ajuste le taux de disparition des marqueurs.
+FLOAT,2992432318,Taux de secousse,Ajuste le taux de secousse des marqueurs d'impact.
+TOGGLE_INT_SLIDER,315559486,Marqueurs d'impact arc-en-ciel,Les marqueurs d'impact changeront de couleur en continu.
+SUB,2778338418,Ciel,Modifiez les couleurs du ciel ou l'intensité de certaines choses !
+SUB,2939256069,Azimut,Modifiez les effets d'azimut.
+SUB,8192296,Azimut est,Modifiez la couleur du ciel à l'est de l'azimut.
+TOGGLE,2442572481,Activer l'écrasement de l'azimut est,Active/désactive l'application de la couleur à l'est de l'azimut.
+TOGGLE_INT_SLIDER,18966336,Azimut est arc-en-ciel,Les couleurs de l'azimut est changeront continuellement.
+FLOAT_TOGGLE,1379495712,Intensité de l'azimut est,Les couleurs de l'azimut est changeront continuellement.
+SUB,2434250276,Azimut ouest,Modifiez la couleur du ciel à l'ouest de l'azimut.
+TOGGLE,252122953,Activer l'écrasement de l'azimut ouest,Active/désactive l'application de la couleur à l'ouest de l'azimut.
+TOGGLE_INT_SLIDER,164725598,Azimut ouest arc-en-ciel,Les couleurs de l'azimut ouest changeront continuellement.
+FLOAT_TOGGLE,3724355220,Intensité de l'azimut ouest,Les couleurs de l'azimut ouest changeront continuellement.
+SUB,3342017533,Transition de l'azimut,Modifiez la couleur de transition de l'azimut.
+TOGGLE,1412227108,Activer l'écrasement de l'azimut de transition,Active/désactive l'application de la couleur à l'azimut de transition.
+TOGGLE_INT_SLIDER,3529725725,Azimut de transition arc-en-ciel,Les couleurs de l'azimut de transition changeront continuellement.
+FLOAT_TOGGLE,3029777241,Intensité de l'azimut de transition,Les couleurs de l'azimut de transition changeront continuellement.
+FLOAT_TOGGLE,3930636140,Position de l'azimut de transition,Définir la position de l'azimut de transition.
+SUB,1862060754,Zénith,Modifiez les effets du zénith.
+SUB,1620993334,Zénith,Modifiez la couleur du ciel du zénith.
+TOGGLE,1887323804,Activer l'écrasement du zénith,Active/désactive l'application de la couleur à l'azimut.
+TOGGLE_INT_SLIDER,365997852,Zénith arc-en-ciel,Les couleurs du zénith changeront continuellement.
+FLOAT_TOGGLE,251101292,Intensité du zénith,Les couleurs du zénith changeront continuellement.
+SUB,1156091600,Transition du zénith,Modifiez la couleur de transition du zénith.
+TOGGLE,178198432,Activer l'écrasement de la transition du zénith,Active/désactive l'application de la couleur à l'est de l'azimut.
+TOGGLE_INT_SLIDER,2500635452,Zénith transition arc-en-ciel,Les couleurs de la transition du zénith changeront continuellement.
+FLOAT_TOGGLE,3100969617,Intensité de la transition du zénith,Les couleurs de la transition du zénith changeront continuellement.
+FLOAT_TOGGLE,1529704098,Position de la transition du zénith,Définir la position de la transition du zénith.
+FLOAT_TOGGLE,596222515,Fusion à l'est de la transition du zénith,Définir la fusion à l'est de la transition du zénith.
+FLOAT_TOGGLE,3675475573,Fusion à l'ouest de la transition du zénith,Définir la fusion à l'ouest de la transition du zénith.
+FLOAT_TOGGLE,321172474,Démarrer la fusion de la transition du zénith,Définir le début de la fusion de la transition du zénith.
+SUB,3862829044,HDR,Modifiez les HDR du ciel.
+FLOAT_TOGGLE,3005567250,k HDR,Définir le k HDR du ciel.
+FLOAT_TOGGLE,1022721850,Cloud HDR,Définir le HDR des nuages.
+FLOAT_TOGGLE,2135745641,Sun HDR,Définir le HDR du soleil.
+SUB,685817252,Soleil,Modifiez la couleur du soleil et plus encore.
+SUB,3865247407,Noyau du soleil,Modifiez la couleur du noyau du soleil.
+TOGGLE,1302909352,Activer l'écrasement du noyau du soleil,Active/désactive l'application de la couleur au noyau du soleil.
+TOGGLE_INT_SLIDER,1866361861,Noyau du soleil arc-en-ciel,Les couleurs du noyau du soleil changeront continuellement.
+SUB,2747919890,Disque solaire,Modifiez la couleur du disque solaire.
+TOGGLE,2949197087,Activer l'écrasement du disque solaire,Active/désactive l'application de la couleur au disque solaire.
+TOGGLE_INT_SLIDER,3086322229,Disque solaire arc-en-ciel,Les couleurs du disque solaire changeront continuellement.
+FLOAT_TOGGLE,901856494,Taille du disque,Définir la taille du disque solaire.
+FLOAT_TOGGLE,2570148867,Miephase,Définir la miephase du soleil.
+FLOAT_TOGGLE,2535554240,Mmiescatter,Définir le miescatter du soleil.
+FLOAT_TOGGLE,4018102086,Radius d'influence,Définir le rayon d'influence.
+FLOAT_TOGGLE,1867247976,Scatter Inten,Définir la scatter inten.
+SUB,1580597364,Lune,Modifiez l'effet de la lune.
+TOGGLE,796064315,Activer l'écrasement du noyau de la lune,Active/désactive l'application de la couleur au noyau de la lune.
+TOGGLE_INT_SLIDER,203698840,Noyau de la lune arc-en-ciel,Les couleurs du noyau de la lune changeront continuellement.
+FLOAT_TOGGLE,3734978702,Taille du disque,Définir la taille du disque lunaire.
+FLOAT_TOGGLE,1835886787,Radius d'influence,Définir le rayon d'influence lunaire.
+FLOAT_TOGGLE,3397502571,Intensité de la lune,Définir l'intensité lunaire.
+FLOAT_TOGGLE,1426014317,Scatter Inten,Définir la scatter inten lunaire.
+FLOAT_TOGGLE,505194783,Étoiles,Définir les étoiles dans le ciel.
+FLOAT_TOGGLE,1068310761,Intensité du plan,Définir l'intensité du plan.
+SUB,1863346062,Cadeaux de Noël,Déposez des cadeaux à l'emplacement.
+TOGGLE,2161855320,Activer la pluie de cadeaux,Les cadeaux commenceront à arriver à votre emplacement.
+FLOAT,3260978449,Portée des cadeaux,Portée depuis la distance réelle où les cadeaux apparaissent.
+FLOAT,1477138754,Hauteur des cadeaux,Hauteur de spawn des cadeaux.
+INT,1098683894,Nombre d'angles des cadeaux,Nombre d'angles où les cadeaux apparaîtront.
+FLOAT,248784304,Vitesse des cadeaux,Vitesse des objets pour larguer les cadeaux.
+FLOAT,2977533751,Particules d'effets des cadeaux,Changer la taille des particules d'effets.
+TOGGLE,3114218379,Audio,Son des cadeaux qui explosent.
+TOGGLE,3112138857,Larguer sur le point,Les cadeaux seront largués sur le point de repère.
+TOGGLE,1146025869,Visible,Explosion visible.
+NOTIFICATION,774138999,Largages du Père Noël (WY),Veuillez définir un point de repère. Les cadeaux vous attendent.
+NOTIFICATION,1080201455,Largages du Père Noël,Prenez votre arme et tirez à l'emplacement pour marquer l'emplacement de largage des cadeaux.
+BUTTON,1315980409,Annuler l'annulation du réseau,Efface l'état de remplacement du temps.
+TOGGLE_INT_SLIDER,762568360,Accéléré,Le temps passe plus vite et le taux est réglable.
+BUTTON,1985392000,Flux de trésorerie des millionnaires,Vous rend millionnaire en quelques secondes.
+BUTTON,1746423654,Ajouter de l'argent,Saisissez n'importe quel montant d'argent de 0 $ à 1 000 000 $.
+BUTTON,1934249145,Saut d'argent,Chaque fois que vous sautez, le jeu vous donne de l'argent.
+SUB,865221407,Spooner,Options liées à l'apparition et au déplacement.
+SUB,96289167,Objets,Options d'apparition d'objets.
+TOGGLE,2853260470,Sponner Freecam,Vous permet de déplacer des entités ou d'utiliser une caméra libre.
+SUB,2010613728,À distance,Options à distance.
+SUB,867151001,Appliquer une prime,Définir une prime sur le joueur.
+SUB,2067092714,Véhicule,Options liées au véhicule du joueur.
+SUB,2542089820,Magnéto,Magnéto crée un champ autour du joueur qui attire les entités.
+SUB,2850512690,Armes,Tout ce qui concerne les armes pour le joueur.
+SUB,1375614519,Enlèvement de joueur,Le joueur sera chargé dans un camion et emmené.
+SUB,2748882627,Jesus Trolling,Toutes les options liées au trolling de jesus.
+SUB,2812967576,Donner des armes,Donner des armes au joueur.
+TOGGLE,3525847587,Définir comme anonyme,Définir une prime sur le joueur de manière anonyme (sous un autre nom).
+INT,42763926,Quantité,Le montant de la prime.
+TOGGLE,4135319238,Spectateur,Vous regarderez le joueur.
+BUTTON,1339568154,Téléporter vers le joueur,Vous serez téléporté vers le joueur.
+BUTTON,427771082,Téléporter dans le véhicule,Vous serez téléporté dans le véhicule du joueur.
+BUTTON,2550261474,Parachuter vers le joueur,Vous parachuterez instantanément vers le joueur.
+BUTTON,3711442160,Null Kick à distance,Expulse le joueur à distance. Pas une bonne méthode.
+BUTTON,1361775372,Kick de l'hôte,Expulse le joueur de l'hôte. Le kick le plus puissant en jeu lorsque vous êtes l'hôte.
+TOGGLE,4223835632,Gel,Le personnage du joueur ne pourra pas bouger ni faire quoi que ce soit.
+TOGGLE,58754039,Boucle d'eau,Fait voler le joueur avec le flux de l'eau.
+TOGGLE,2618382350,Boucle de feu,Met le joueur en feu et lui inflige des dégâts.
+TOGGLE,3043778727,Festival de feux d'artifice,Crée des feux d'artifice autour du joueur.
+TOGGLE,1078563000,Off The Radar à distance,Définit le joueur hors radar.
+TOGGLE,10569879,Élimination du signalement à distance,Désactive l'état de recherche du joueur.
+TOGGLE,2776453046,Kick de PDG à distance,Expulse le joueur du PDG.
+TOGGLE,2996312137,Focus sur le joueur,Votre caméra sera centrée sur le joueur.
+BUTTON,3496179470,Loi et ordre,Le joueur est enfermé dans une cellule et violemment agressé par les forces de l'ordre.
+BUTTON,1840280396,You Shall Not Pass,Spawne une barrière invisible.
+BUTTON,717586432,Je suis Dieu,Jésus bat le joueur à mort.
+BUTTON,2735745988,Réparer,Répare tous les dommages sur le véhicule du joueur.
+BUTTON,1067488196,Améliorer,Améliore le véhicule du joueur au maximum.
+BUTTON,560407614,Supprimer,Supprime le véhicule du joueur.
+TOGGLE,3717123195,Perturber la manipulation,Perturbe la manipulation du joueur.
+TOGGLE,2576236737,Klaxon Boost,Donne au joueur un boost de klaxon.
+SUB,1264080816,Changer la couleur principale,Changer la couleur principale du véhicule du joueur.
+BUTTON,2351201927,Appliquer la couleur,Change la couleur du véhicule du joueur.
+BUTTON,3518004562,Pousser le joueur,Un véhicule aléatoire poussera le joueur.
+SUB,425501976,Changer la couleur secondaire,Changer la couleur secondaire du véhicule du joueur.
+SUB,2032484055,Trolleys,Apparition de véhicules qui vont et frappent le joueur.
+SUB,4283584363,Geler,Immobilise le véhicule du joueur à sa position.
+SUB,3155427831,Invincibilité,Donne le mode invincible au véhicule du joueur.
+SUB,4014030637,Pousser,Pousser le véhicule du joueur avec force.
+SUB,2236100353,Collision,Changer l'état de collision du véhicule du joueur.
+BUTTON,2581236227,Activer la collision,Active la collision du véhicule du joueur.
+BUTTON,2292241997,Désactiver la collision,Désactive la collision du véhicule du joueur.
+SUB,2198264921,Rotation,Changer la rotation du véhicule du joueur.
+SUB,3310077783,Pneus,Faire éclater les pneus ou les réparer.
+BUTTON,131054503,Éclater à gauche à l'avant et à l'avant,Faire éclater les roues avant ou avant gauche du véhicule du joueur.
+BUTTON,2120122723,Éclater à droite à l'avant et à l'arrière,Faire éclater les roues arrière ou avant droite du véhicule du joueur.
+BUTTON,3280638807,Éclater à l'arrière à droite,Faire éclater la roue arrière droite du véhicule du joueur.
+BUTTON,733618177,Éclater à l'arrière à gauche,Faire éclater la roue arrière gauche du véhicule du joueur.
+BUTTON,960928947,Éclater tous les pneus,Faire éclater tous les pneus du véhicule du joueur.
+BUTTON,2308528062,Réparer tous les pneus,Réparer tous les pneus du véhicule du joueur.
+BUTTON,1935782643,Réparer à gauche à l'avant et à l'avant,Réparer la roue avant ou avant gauche du véhicule du joueur.
+BUTTON,441524759,Réparer à droite à l'avant et à l'arrière,Réparer la roue arrière ou avant droite du véhicule du joueur.
+BUTTON,2973166840,Réparer à l'arrière à droite,Réparer la roue arrière droite du véhicule du joueur.
+BUTTON,1699859801,Réparer à l'arrière à gauche,Réparer la roue arrière gauche du véhicule du joueur.
+BUTTON,1097583358,À l'envers,Fait tourner le véhicule du joueur à l'envers.
+BUTTON,4251877259,Retourner,Retourne correctement le véhicule du joueur.
+BUTTON,1708539349,Rotation miroir,Définit la rotation du véhicule du joueur à l'opposé.
+BUTTON,3494405948,Rotation aléatoire,Définit la rotation du véhicule du joueur au hasard.
+BUTTON,1886093194,Placer correctement au sol,Place le véhicule du joueur correctement au sol.
+SUB,1090325559,Moteur,Changer la santé du moteur du véhicule du joueur.
+BUTTON,1731028516,Éteindre le moteur,Le moteur du véhicule du joueur s'éteint.
+BUTTON,3458210898,Mettre le moteur en feu,Le moteur du véhicule du joueur prend feu.
+BUTTON,1802335194,Fumée du moteur,Le moteur du véhicule du joueur commence à fumer.
+BUTTON,1678187694,Réparer le moteur,Le moteur du véhicule du joueur est réparé.
+BUTTON,1286757423,Éteindre le moteur,Le moteur du véhicule du joueur s'éteint.
+SUB,1804068033,Vérouiller,Changer l'état de verrouillage des portes du véhicule du joueur.
+BUTTON,2014217868,Vérouiller,Vérouille le véhicule du joueur.
+BUTTON,639259214,Déverrouiller,Déverrouille le véhicule du joueur.
+SUB,2072408661,Invisible,Changer l'état visible du véhicule du joueur.
+BUTTON,1632653701,Définir invisible,Rend invisible le véhicule du joueur.
+BUTTON,4109753998,Définir visible,Rend le véhicule du joueur visible s'il est invisible.
+BUTTON,374750124,Appliquer la couleur,Change la couleur du véhicule du joueur.
+BUTTON,1952311128,Copier l'apparence,Change votre tenue pour correspondre à celle du joueur.
+BUTTON,3773364714,Remplir le véhicule de prostituées,Remplit la voiture du joueur de prostituées.
+BUTTON,1835695875,Cage qui tourne,Spawne une cage qui tourne.
+BUTTON,1597116190,Semi God Mode,La santé et l'armure du joueur se rempliront lorsqu'elles seront basses.
+TOGGLE,3913941677,Magnéto,Le joueur commencera à attirer des entités.
+TOGGLE,613664292,Collision de Magnéto,Active ou désactive la collision des entités.
+FLOAT,1184762743,Force de Magnéto,Change la force magnétique.
+TOGGLE,2539101576,Argent et RP à distance,Donne de l'argent au joueur et des RP.
+BUTTON,4134946442,Freeze,Immobilise le véhicule du joueur.
+BUTTON,830700464,Dégeler,Supprime l'immobilisation du véhicule du joueur.
+BUTTON,569771171,Ajouter Godmode,Donne le mode invincible au véhicule du joueur.
+BUTTON,1384695032,Supprimer Godmode,Supprime le mode invincible du véhicule du joueur.
+BUTTON,3312365159,Cadeau de véhicule,Rend le véhicule du joueur sauvegardable.
+BUTTON,686279795,Avancer,Pousse le véhicule du joueur vers l'avant.
+BUTTON,2117445396,Arrière,Pousse le véhicule du joueur vers l'arrière.
+BUTTON,1886385645,Gauche,Pousse le véhicule du joueur vers la gauche.
+BUTTON,511279925,Droite,Pousse le véhicule du joueur vers la droite.
+BUTTON,2189393863,Haut,Pousse le véhicule du joueur vers le haut.
+BUTTON,1078326056,Bas,Pousse le véhicule du joueur vers le bas.
+BUTTON,3763750037,Artillerie de pluie,Artillerie de pluie sur le joueur. Que Dieu le sauve.
+BUTTON,225515317,Véhicule mini-trolly,Bien, c'est une voiture de troll.
+BUTTON,1676914480,Tank mini-trolly,Bien, c'est un mini char de troll.
+BUTTON,1977076057,Golfeur nu,Bien, c'est un homme nu de troll avec son fouet.
+BUTTON,3530405647,Femme sexy à la plage,Bien, c'est une fille sexy de troll.
+BUTTON,840278215,Buggy de rampe,Très cool, buggy de rampe.
+BUTTON,2940716775,Biker juif,Grand gars avec une grande moto.
+BUTTON,972512251,Fille en scooter,Super fille avec un super scooter.
+BUTTON,4157508073,Fille en BMX,Encore une fille avec sa balade.
+BUTTON,3463583116,Voiture mini du Juggernaut,Grand mini véhicule du Juggernaut.
+BUTTON,3233485218,Lester The Farmer,Oncle Lester avec son vieux tracteur.
+BUTTON,2596958192,Donner toutes les armes,Donne toutes les armes du jeu au joueur.
+BUTTON,3187694853,Supprimer toutes les armes,Supprime toutes les armes que le joueur possède.
+BUTTON,4168037008,Donner toutes les armes de mêlée,Donne toutes les armes de mêlée du jeu au joueur.
+BUTTON,4123841740,Donner toutes les armes de poing,Donne toutes les armes de poing du jeu au joueur.
+BUTTON,332214906,Donner tous les SMG,Donne toutes les SMG du jeu au joueur.
+BUTTON,2952093103,Donner tous les fusils à pompe,Donne toutes les fusils à pompe du jeu au joueur.
+BUTTON,3241223776,Donner tous les fusils d'assaut,Donne toutes les fusils d'assaut du jeu au joueur.
+BUTTON,862853998,Donner tous les fusils de sniper,Donne tous les fusils de sniper du jeu au joueur.
+BUTTON,2837321391,Donner toutes les mitrailleuses,Donne toutes les mitrailleuses du jeu au joueur.
+BUTTON,728548184,Donner toutes les armes explosives,Donne toutes les armes explosives du jeu au joueur.
+BUTTON,3756688977,Donner toutes les armes spéciales,Donne toutes les armes spéciales du jeu au joueur.
+BUTTON,2874707781,Donner tous les autres objets,Donne tous les autres objets du jeu au joueur.
+BUTTON,2999037700,Enlèvement NPC Kidnap,Joueur kidnappé par un PNJ dans un camion.
+BUTTON,4074047914,Vous Kidnap,Joueur kidnappé dans un camion.
+NOTIFICATION,2809900627,Échec de la demande de contrôle,Impossible de demander le contrôle.
+BUTTON,4089796654,Téléportation dans les airs,Téléporte le véhicule du joueur dans les airs.
+BUTTON,2531370735,Téléportation vers moi,Téléporte le véhicule du joueur vers vous avec le joueur également.
+BUTTON,3009970211,Pluie de cadeaux de Noël,Il pleut des cadeaux de Noël du Père Noël.
+SUB,1681830362,Vol de véhicule,Vous ou un PNJ vous installerez dans le véhicule du joueur et vroom vrom !
+BUTTON,2087949117,Voler comme vous,Vous serez installé dans le véhicule du joueur.
+BUTTON,626456578,Voler comme Npc,Un PNJ sera installé dans le véhicule du joueur.
+SUB,3416682960,Kick,Beaucoup de coups de pied à utiliser sur le joueur.
+NOTIFICATION,4101174710,Échec de la requête de script,Impossible d'expulser le joueur.
+SUB,353074973,Godmode,Activer la détection des moddeurs lorsqu'un joueur est invincible.
+TOGGLE,3195227321,Notification,Affiche une notification latérale à droite si un joueur est en mode invincible.
+TOGGLE,3385506591,Console,Connecte si un joueur est en mode invincible à la console et aux journaux.
+TOGGLE,3776883069,Notification,Affiche une notification latérale à droite si un joueur est en mode invincible tout en étant dans un véhicule.
+TOGGLE,3549210644,Console,Connecte si un joueur est en mode invincible tout en étant dans un véhicule à la console et aux journaux.
+TOGGLE,1030597042,Notification,Affiche une notification latérale à droite si la santé d'un joueur n'est pas normale.
+TOGGLE,2450616357,Console,Connecte si la santé d'un joueur n'est pas normale à la console et aux journaux.
+TOGGLE,74197387,Notification,Affiche une notification latérale à droite si un joueur utilise des indicateurs de trame.
+TOGGLE,234502477,Console,Connecte si un joueur utilise des indicateurs de trame à la console et aux journaux.
+TOGGLE,1699672218,Notification,Affiche une notification latérale à droite si un joueur utilise des mods de dégâts.
+TOGGLE,3414557792,Console,Connecte si un joueur utilise des mods de dégâts à la console et aux journaux.
+TOGGLE,3544762540,Notification,Affiche une notification latérale à droite si un joueur utilise des mods de mouvements.
+TOGGLE,3502388773,Console,Connecte si un joueur utilise des mods de mouvements à la console et aux journaux.
+TOGGLE,2559788753,Notification,Affiche une notification latérale à droite si un joueur a trop d'argent.
+TOGGLE,2470121051,Console,Connecte si un joueur a trop d'argent à la console et aux journaux.
+SUB,1248113710,Chute d'argent,Activer la détection des moddeurs lorsqu'un joueur lâche de l'argent.
+TOGGLE,1201221566,Notification,Affiche une notification latérale à droite si un joueur lâche de l'argent.
+TOGGLE,1344836879,Console,Connecte si un joueur utilise une chute d'argent à la console et aux journaux.
+TOGGLE,1038817602,Notification,Affiche une notification latérale à droite si un joueur envoie des événements suspects.
+TOGGLE,807126442,Console,Connecte si un joueur envoie des événements suspects à la console et aux journaux.
+TOGGLE,4036345912,Notification,Affiche une notification latérale à droite si un joueur utilise un modèle anormal.
+TOGGLE,1561245146,Console,Connecte si un joueur utilise un modèle anormal à la console et aux journaux.
+SUB,1961156900,Godmode dans un véhicule,Activer la détection des moddeurs lorsqu'un joueur est invincible dans un véhicule.
+SUB,902617174,Détecté par les événements,Activer la détection des moddeurs lorsqu'un joueur envoie des événements suspects.
+SUB,548871755,Santé anormale,Activer la détection des moddeurs lorsque la santé d'un joueur n'est pas normale.
+SUB,3101107558,Indicateurs de trame,Activer la détection des moddeurs lorsqu'un joueur utilise des indicateurs de trame.
+SUB,1137285450,Mods de dégâts,Activer la détection des moddeurs lorsqu'un joueur utilise des mods de dégâts.
+SUB,985723799,Mods de mouvements,Activer la détection des moddeurs lorsqu'un joueur utilise des mods de mouvements.
+SUB,1574059275,Argent excessif,Activer la détection des moddeurs lorsqu'un joueur a trop d'argent.
+SUB,3942735401,Modèle anormal,Activer la détection des moddeurs lorsqu'un joueur utilise un modèle anormal.
+NOTIFICATION,952694915,Joueur en godmode, a le godmode activé, moddeur confirmé.
+NOTIFICATION,3892146128,Joueur en godmode dans un véhicule, a le godmode activé sur son véhicule, moddeur confirmé.
+NOTIFICATION,330131134,Santé anormale du joueur, a une santé anormale, moddeur confirmé.
+NOTIFICATION,1938684397,Joueur utilisant des indicateurs de trame, utilise des indicateurs de trame, moddeur confirmé.
+NOTIFICATION,1374035284,Joueur utilisant des mods de dégâts, utilise des mods de dégâts, moddeur confirmé.
+NOTIFICATION,2269983094,Joueur utilisant des mods de mouvements, utilise des mods de mouvements, moddeur confirmé.
+NOTIFICATION,1448456733,Joueur ayant trop d'argent, a trop d'argent, pourrait être un moddeur.
+NOTIFICATION,988611760,Joueur n'utilisant pas un modèle normal, n'utilise pas un modèle de personnage normal, moddeur confirmé.
+NOTIFICATION,1227496732,Joueur lâchant de l'argent, lâche de l'argent.
+NOTIFICATION,1558373917,Joueur envoyant des événements suspects, envoie des événements suspects.
+SUB,551154109,Votes d'expulsion,Protections contre les votes d'expulsion.
+TOGGLE,3099360199,Activer,Active les protections contre les votes d'expulsion.
+TOGGLE,1187995140,Journalisation de la console,Journalise les votes d'expulsion dans la console lorsque quelqu'un vote pour l'expulsion.
+TOGGLE,1156112325,Notification,Notification latérale lorsque quelqu'un vote pour l'expulsion.
+NOTIFICATION,551279805,Protection,: vote pour votre expulsion.
+SUB,1237897455,Explosions,Protections contre les explosions.
+TOGGLE,3062656882,Activer,Active les protections contre les explosions.
+TOGGLE,117912415,Journalisation de la console,Journalise dans la console lorsque quelqu'un provoque des explosions.
+TOGGLE,4068330281,Notification,Notification latérale lorsque quelqu'un provoque des explosions.
+NOTIFICATION,2616598713,Protection,: provoque des explosions.
+SUB,1282821579,Signalements,Protections contre les signalements.
+TOGGLE,1582907030,Activer,Active les protections contre les signalements.
+TOGGLE,827342467,Journalisation de la console,Journalise dans la console lorsque quelqu'un vous signale.
+TOGGLE,2043932151,Notification,Notification latérale lorsque quelqu'un vous signale.
+NOTIFICATION,1620511589,Protection,: vous signale.
+SUB,3835339224,Crashes,Protections contre les plantages du jeu.
+TOGGLE,231178214,Activer,Active les protections contre les plantages.
+TOGGLE,4194979282,Journalisation de la console,Journalise dans la console lorsque quelqu'un tente de vous faire planter.
+TOGGLE,543867441,Notification,Notification latérale lorsque quelqu'un tente de vous faire planter.
+NOTIFICATION,1154805754,Protection,: tente de planter votre jeu [tâches temporaires de véhicule].
+NOTIFICATION,1334908867,Protection,: tente de planter votre jeu [corde].
+NOTIFICATION,2112135052,Protection,: tente de planter votre jeu [type d'entité de script non valide].
+NOTIFICATION,3988570288,Protection,: tente de planter votre jeu [remplacement de groupe].
+NOTIFICATION,4129812414,Protection,: tente de planter votre jeu [état du monde non valide].
+NOTIFICATION,198706212,Protection,: tente de planter votre jeu [supprimer l'arme non armée].
+NOTIFICATION,3563200292,Protection,: tente de planter votre jeu [type de contrôle non valide].
+NOTIFICATION,1462259819,Protection,: tente de planter votre jeu [son].
+NOTIFICATION,859614057,Protection,: tente de planter votre jeu [tse 2].
+NOTIFICATION,3647573248,Protection,: tente de planter votre jeu [tse 3].
+NOTIFICATION,1490581157,Protection,: tente de planter votre jeu [crash du message].
+NOTIFICATION,4115815248,Protection,: tente de planter votre jeu [crash du message 2].
+NOTIFICATION,416334714,Protection,: tente de planter votre jeu [mc].
+NOTIFICATION,190486564,Protection,: tente de planter votre jeu avec un véhicule non valide.
+NOTIFICATION,1141786858,Protection,: tente de planter votre jeu avec une porte non valide.
+NOTIFICATION,725313077,Protection,: tente de planter votre jeu avec un objet de ramassage.
+NOTIFICATION,2030665957,Protection,: tente de planter votre jeu avec un piéton non valide.
+NOTIFICATION,2200711355,Protection,: tente de planter votre jeu avec une propriété de piéton non valide.
+NOTIFICATION,3974203271,Protection,: tente de planter votre jeu avec une attache de piéton.
+NOTIFICATION,4044893358,Protection,: tente de planter votre jeu avec un objet non valide.
+NOTIFICATION,2569884510,Protection,: tente de planter votre jeu avec un modèle de joueur non valide.
+NOTIFICATION,1095296617,Protection,: tente de planter votre jeu avec un secteur non valide.
+NOTIFICATION,4187120185,Protection,: tente de planter votre jeu avec un secteur non valide (GS).
+NOTIFICATION,1760004625,Protection,: tente de planter votre jeu avec une voie ferrée non valide.
+NOTIFICATION,2713854923,Protection,: tente de planter votre jeu avec un sous-marin.
+NOTIFICATION,3452271030,Protection,: tente de planter votre jeu avec des drapeaux piétons.
+NOTIFICATION,1237352935,Protection,: tente de planter votre jeu avec un gadget.
+TOGGLE,2674392630,Fake Deposits,Protège contre les messages de dépôt faux.
+TOGGLE,1711349879,Erreurs de transaction,Protège contre les erreurs de transaction.
+SUB,4009356470,Freeze,Protections contre le gel.
+TOGGLE,808794495,Activer,Active les protections contre le gel de votre personnage.
+TOGGLE,4006431293,Journalisation de la console,Journalise dans la console lorsque quelqu'un vous gèle.
+TOGGLE,1837439674,Notification,Notification latérale lorsque quelqu'un vous gèle.
+NOTIFICATION,2421662946,Protection,: vous gèle.
+NOTIFICATION,2757449756,Protection,: vous gèle [tse].
+SUB,4132795139,Ragdoll,Protections contre les événements de ragdoll.
+TOGGLE,3316999126,Activer,Active les protections contre les joueurs qui essaient d'envoyer des événements de ragdoll.
+TOGGLE,3475455929,Journalisation de la console,Journalise dans la console lorsque quelqu'un envoie des événements de ragdoll.
+TOGGLE,1399685127,Notification,Notification latérale lorsque quelqu'un envoie des événements de ragdoll.
+NOTIFICATION,1571259668,Protection,: vous met en position de ragdoll.
+SUB,3567704674,Demande de contrôle,Protections contre les joueurs demandant le contrôle.
+TOGGLE,153131680,Activer,Active les protections contre les joueurs demandant le contrôle.
+TOGGLE,4198539656,Journalisation de la console,Journalise dans la console lorsque qu'un joueur demande le contrôle.
+TOGGLE,1655931571,Notification,Notification latérale lorsqu'un joueur demande le contrôle.
+NOTIFICATION,1021418187,Protection,: demande le contrôle sur vous.
+SUB,3391993693,Retirer et donner des armes,Protection contre les joueurs qui retirent ou donnent des armes.
+TOGGLE,3570730252,Activer,Active les protections contre les joueurs qui tentent de retirer ou de donner des armes.
+TOGGLE,2474916930,Journalisation de la console,Journalise dans la console lorsque qu'un joueur retire ou donne des armes.
+TOGGLE,2938398190,Notification,Notification latérale lorsqu'un joueur retire ou donne des armes.
+NOTIFICATION,2376010370,Protection,: retire vos armes.
+NOTIFICATION,2429283772,Protection,: vous donne des armes.
+SUB,2630912255,Spam sonore,Protections contre le spam sonore des joueurs.
+TOGGLE,3791714039,Activer,Active les protections contre les joueurs qui tentent de spammer des sons.
+TOGGLE,1539043651,Journalisation de la console,Journalise dans la console lorsque qu'un joueur vous spamme des sons.
+TOGGLE,2811080584,Notification,Notification latérale lorsqu'un joueur vous spamme des sons.
+NOTIFICATION,1043959272,Protection,: vous spamme des sons.
+NOTIFICATION,1843893515,Protection,: vous spamme des sons [tse].
+SUB,4186424208,Prime,Protections contre les joueurs qui mettent une prime.
+TOGGLE,4120497597,Activer,Active les protections contre les joueurs qui tentent de mettre une prime sur vous.
+TOGGLE,3653829808,Journalisation de la console,Journalise dans la console lorsque qu'un joueur met une prime sur vous.
+TOGGLE,644183496,Notification,Notification latérale lorsqu'un joueur met une prime sur vous.
+NOTIFICATION,2737809065,Protection,: met une prime sur vous.
+SUB,2770490141,Kick CEO,Protections contre les joueurs qui expulsent du CEO.
+TOGGLE,3091805365,Activer,Active les protections contre les joueurs qui tentent de vous expulser du CEO.
+TOGGLE,4023688642,Journalisation de la console,Journalise dans la console lorsque qu'un joueur vous expulse du CEO.
+TOGGLE,1340128457,Notification,Notification latérale lorsqu'un joueur vous expulse du CEO.
+NOTIFICATION,220433867,Protection,: vous expulse du CEO.
+SUB,3084940655,Argent CEO,Protections contre les joueurs qui donnent de l'argent du CEO.
+TOGGLE,2161739382,Activer,Active les protections contre les joueurs qui tentent de vous donner de l'argent du CEO.
+TOGGLE,1037380696,Journalisation de la console,Journalise dans la console lorsque qu'un joueur vous donne de l'argent du CEO.
+TOGGLE,4099055134,Notification,Notification latérale lorsqu'un joueur vous donne de l'argent du CEO.
+NOTIFICATION,2799484121,Protection,: vous donne de l'argent du CEO.
+SUB,2044797332,Enlèvement du niveau de recherche,Protections contre les joueurs qui annulent votre niveau de recherche.
+TOGGLE,3195909208,Activer,Active les protections contre les joueurs qui tentent d'annuler votre niveau de recherche.
+TOGGLE,2730854693,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente d'annuler votre niveau de recherche.
+TOGGLE,1972311737,Notification,Notification latérale lorsqu'un joueur tente d'annuler votre niveau de recherche.
+NOTIFICATION,1722312810,Protection,: annule votre niveau de recherche.
+SUB,4144841272,Forcer la mission,Protections contre les joueurs qui forcent l'envoi en mission.
+TOGGLE,3495611254,Activer,Active les protections contre les joueurs qui tentent de vous forcer à faire une mission.
+TOGGLE,2839440923,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous forcer à faire une mission.
+TOGGLE,1827686584,Notification,Notification latérale lorsqu'un joueur tente de vous forcer à faire une mission.
+NOTIFICATION,1583896633,Protection,: vous force à faire une mission.
+SUB,126436514,Donner des objets de collection,Protections contre les joueurs qui donnent des objets de collection.
+TOGGLE,1149382312,Activer,Active les protections contre les joueurs qui tentent de vous donner des objets de collection.
+TOGGLE,649647368,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous donner des objets de collection.
+TOGGLE,766919416,Notification,Notification latérale lorsqu'un joueur tente de vous donner des objets de collection.
+NOTIFICATION,8904168,Protection,: vous donne un objet de collection.
+SUB,1855290696,Bannière,Protections contre les joueurs qui envoient des bannières.
+TOGGLE,888442661,Activer,Active les protections contre les joueurs qui tentent d'envoyer des bannières.
+TOGGLE,3936423987,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente d'envoyer des bannières.
+TOGGLE,256738343,Notification,Notification latérale lorsqu'un joueur tente d'envoyer des bannières.
+NOTIFICATION,132283104,Protection,: vous envoie une bannière.
+SUB,3682648926,Téléportation,Protections contre les joueurs qui tentent de vous téléporter.
+TOGGLE,1037867894,Activer,Active les protections contre les joueurs qui tentent de vous téléporter.
+TOGGLE,2726286991,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous téléporter.
+TOGGLE,2427652176,Notification,Notification latérale lorsqu'un joueur tente de vous téléporter.
+NOTIFICATION,3367541674,Protection,: vous téléporte [mc].
+NOTIFICATION,2016415597,Protection,: vous téléporte [cayo].
+NOTIFICATION,425669554,Protection,: vous téléporte [cinématique].
+NOTIFICATION,3201939091,Protection,: vous téléporte [envoi à l'emplacement].
+NOTIFICATION,2761715861,Protection,: vous téléporte [envoi à l'emplacement 2].
+NOTIFICATION,847826312,Protection,: vous téléporte [tse].
+NOTIFICATION,2538391187,Protection,: vous téléporte [entrepôt].
+SUB,997287336,Véhicule personnel,Protections contre les joueurs qui interfèrent à distance avec votre véhicule.
+TOGGLE,1394486916,Activer,Active les protections contre les joueurs qui tentent d'interférer à distance avec votre véhicule.
+TOGGLE,50763621,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente d'interférer à distance avec votre véhicule.
+TOGGLE,1720074436,Notification,Notification latérale lorsqu'un joueur tente d'interférer à distance avec votre véhicule.
+NOTIFICATION,987836981,Protection,: interfère à distance avec votre véhicule.
+SUB,1332729051,Invisible,Protections contre les joueurs qui activent votre invisibilité à distance.
+TOGGLE,3918115732,Activer,Active les protections contre les joueurs qui tentent de vous rendre invisible à distance.
+TOGGLE,190067150,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous rendre invisible à distance.
+TOGGLE,4177295963,Notification,Notification latérale lorsqu'un joueur tente de vous rendre invisible à distance.
+NOTIFICATION,3658408743,Protection,: vous rend invisible.
+SUB,2015190825,Caméra,Protections contre les joueurs qui interfèrent à distance avec votre caméra.
+TOGGLE,1125592678,Activer,Active les protections contre les joueurs qui interfèrent à distance avec votre caméra.
+TOGGLE,375382927,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente d'interférer avec votre caméra.
+TOGGLE,19211220,Notification,Notification latérale lorsqu'un joueur tente d'interférer avec votre caméra.
+NOTIFICATION,507513069,Protection,: interfère avec votre caméra.
+SUB,1098197472,Forcer à spectater,Protections contre les joueurs qui vous envoient en spectateur à distance.
+TOGGLE,3268497592,Activer,Active les protections contre les joueurs qui tentent de vous envoyer en spectateur à distance.
+TOGGLE,599519841,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous envoyer en spectateur à distance.
+TOGGLE,2888666636,Notification,Notification latérale lorsqu'un joueur tente de vous envoyer en spectateur à distance.
+NOTIFICATION,3406341335,Protection,: vous envoie en spectateur.
+SUB,4245052735,Expulsion du véhicule,Protections contre les joueurs qui vous expulsent à distance de votre véhicule.
+TOGGLE,885432973,Activer,Active les protections contre les joueurs qui tentent de vous expulser à distance de votre véhicule.
+TOGGLE,1174931624,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous expulser à distance de votre véhicule.
+TOGGLE,2751005839,Notification,Notification latérale lorsqu'un joueur tente de vous expulser à distance de votre véhicule.
+NOTIFICATION,3811724091,Protection,: vous expulse de votre véhicule.
+SUB,580354036,Kick,Protections contre les joueurs qui expulsent.
+TOGGLE,3105817602,Activer,Active les protections contre les joueurs qui tentent de vous expulser.
+TOGGLE,1066018564,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous expulser.
+TOGGLE,495791387,Notification,Notification latérale lorsqu'un joueur tente de vous expulser.
+NOTIFICATION,3861671840,Protection,: vous expulse [netbail].
+NOTIFICATION,3918881709,Protection,: vous expulse [null].
+SUB,2670021147,Activités,Protections contre les joueurs qui vous envoient à des activités.
+TOGGLE,658180424,Activer,Active les protections contre les joueurs qui tentent de vous envoyer à des activités.
+TOGGLE,4110463206,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous envoyer à des activités.
+TOGGLE,979168875,Notification,Notification latérale lorsqu'un joueur tente de vous envoyer à des activités.
+NOTIFICATION,3884429118,Protection,: vous envoie à des activités.
+SUB,207548368,Expulsion intérieure,Protections contre les joueurs qui vous expulsent de l'intérieur à distance.
+TOGGLE,2267494165,Activer,Active les protections contre les joueurs qui tentent de vous expulser de l'intérieur à distance.
+TOGGLE,2923787957,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous expulser de l'intérieur à distance.
+TOGGLE,882267488,Notification,Notification latérale lorsqu'un joueur tente de vous expulser de l'intérieur à distance.
+NOTIFICATION,662841865,Protection,: vous expulse de l'intérieur.
+SUB,3007395104,Raids,Protections contre les raids du CEO.
+TOGGLE,3473896707,Activer,Active les protections contre les joueurs qui tentent de vous envoyer à des raids.
+TOGGLE,1711685418,Journalisation de la console,Journalise dans la console lorsque qu'un joueur tente de vous envoyer à un raid.
+TOGGLE,1547786462,Notification,Notification latérale lorsqu'un joueur tente de vous envoyer à un raid.
+NOTIFICATION,635843862,Protection,: vous envoie à un raid.

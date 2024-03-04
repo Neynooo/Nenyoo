@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<data>
+	<armor>
+		<_0>None</_0>
+		<_1>Armor Upgrade 20%</_1>
+		<_2>Armor Upgrade 40%</_2>
+		<_3>Armor Upgrade 60%</_3>
+		<_4>Armor Upgrade 80%</_4>
+		<_5>Armor Upgrade 100%</_5>
+		<_val>3</_val>
+	</armor>
+	<brakes>
+		<_0>Street Brakes</_0>
+		<_1>Sport Brakes</_1>
+		<_2>Race Brakes</_2>
+		<_3>Super Brakes</_3>
+		<_val>3</_val>
+	</brakes>
+	<transmission>
+		<_0>Street Transmission</_0>
+		<_1>Sports Transmission</_1>
+		<_2>Race Transmission</_2>
+		<_3>Super Transmission</_3>
+		<_val>3</_val>
+	</transmission>
+	<suspension>
+		<_0>Stock Suspension</_0>
+		<_1>Lowered Suspension</_1>
+		<_2>Street Suspension</_2>
+		<_3>Sport Suspension</_3>
+		<_4>Competition Suspension</_4>
+		<_val>4</_val>
+	</suspension>
+	<horns>
+		<_0>Stock Horn</_0>
+		<_1>Truck Horn</_1>
+		<_2>Cop Horn</_2>
+		<_3>Clown Horn</_3>
+		<_4>Musical Horn 1</_4>
+		<_5>Musical Horn 2</_5>
+		<_6>Musical Horn 3</_6>
+		<_7>Musical Horn 4</_7>
+		<_8>Musical Horn 5</_8>
+		<_9>Sad Trombone</_9>
+		<_10>Classical Horn 1</_10>
+		<_11>Classical Horn 2</_11>
+		<_12>Classical Horn 3</_12>
+		<_13>Classical Horn 4</_13>
+		<_14>Classical Horn 5</_14>
+		<_15>Classical Horn 6</_15>
+		<_16>Classical Horn 7</_16>
+		<_17>Scale - Do</_17>
+		<_18>Scale - Re</_18>
+		<_19>Scale - Mi</_19>
+		<_20>Scale - Fa</_20>
+		<_21>Scale - Sol</_21>
+		<_22>Scale - La</_22>
+		<_23>Scale - Ti</_23>
+		<_24>Scale - Do (high)</_24>
+		<_25>Jazz Horn 1</_25>
+		<_26>Jazz Horn 2</_26>
+		<_27>Jazz Horn 3</_27>
+		<_28>Jazz Horn Loop</_28>
+		<_29>Star Spangled Banner 1</_29>
+		<_30>Star Spangled Banner 2</_30>
+		<_31>Star Spangled Banner 3</_31>
+		<_32>Star Spangled Banner 4</_32>
+		<_33>Classical Horn Loop 1</_33>
+		<_34>Classical Horn 8</_34>
+		<_35>Classical Horn Loop 2</_35>
+		<_36>Unknown Classical 1</_36>
+		<_37>Unknown Classical 2</_37>
+		<_38>Unknown Classical 3</_38>
+		<_39>Halloween 1</_39>
+		<_40>Halloween 2</_40>
+		<_41>Halloween 3</_41>
+		<_42>Halloween 4</_42>
+		<_43>San Andreas Loop</_43>
+		<_44>Liberty City Loop 1</_44>
+		<_45>Liberty City Loop 2</_45>
+		<_46>Liberty City Loop 3</_46>
+		<_47>Jingle Bells</_47>
+		<_48>Sleigh Bells</_48>
+		<_49>Deck the Halls</_49>
+		<_50>Sleigh Bells Loop</_50>
+		<_51>Organ Song</_51>
+		<_52>Sleigh Bells Loop 2</_52>
+		<_53>Air Horn 1</_53>
+		<_54>Air Horn 2</_54>
+		<_55>Air Horn 3</_55>
+		<_56>Air Horn 4</_56>
+		<_57>Air Horn 5</_57>
+		<_58>Air Horn 6</_58>
+		<_val>0</_val>
+	</horns>
+	<windows>
+		<_0>Unknown</_0>
+		<_1>None</_1>
+		<_2>Limousine</_2>
+		<_3>Dark Smoke Glass</_3>
+		<_4>Light Smoke Glass</_4>
+		<_5>Unknown</_5>
+		<_val>2</_val>
+	</windows>
+	<plates>
+		<_0>Default</_0>
+		<_1>San Andreas White</_1>
+		<_2>San Andreas Yellow</_2>
+		<_3>San Andreas Blue</_3>
+		<_4>San Andreas White 2</_4>
+		<_5>Sa Exempt</_5>
+		<_6>Yankton</_6>
+		<_7>Deliciously Infectious</_7>
+		<_8>Las Venturas</_8>
+		<_9>Liberty City</_9>
+		<_10>Los Santos Carmeet</_10>
+		<_11>Panic Los Santos</_11>
+		<_12>Pounders Los Santos</_12>
+		<_13>Sprunk</_13>
+		<_val>3</_val>
+	</plates>
+	<spoilers>
+		<_0>NULL</_0>
+		<_1>Lip Spoiler</_1>
+		<_2>Low Level Spoiler</_2>
+		<_3>Mid Level Spoiler</_3>
+		<_4>High Level Spoiler</_4>
+		<_5>Carbon Wing</_5>
+		<_val>0</_val>
+	</spoilers>
+	<frontbumper>
+		<_0>NULL</_0>
+		<_1>Painted Front Splitter</_1>
+		<_2>Custom Front Splitter</_2>
+		<_3>Painted Bumper &amp; Splitter</_3>
+		<_4>Custom Splitter &amp; Intercooler</_4>
+		<_val>0</_val>
+	</frontbumper>
+	<rearbumper>
+		<_0>NULL</_0>
+		<_1>Carbon Rear Diffuser</_1>
+		<_2>Painted Rear Bumper</_2>
+		<_3>Sports Rear Bumper</_3>
+		<_4>Painted Bumper &amp; Diffuser</_4>
+		<_val>4</_val>
+	</rearbumper>
+	<sideskirts>
+		<_0>NULL</_0>
+		<_1>Custom Skirts</_1>
+		<_2>Low Skirts</_2>
+		<_3>Street Skirts</_3>
+		<_4>Sport Skirts</_4>
+		<_val>4</_val>
+	</sideskirts>
+	<exhausts>
+		<_0>NULL</_0>
+		<_1>Titanium Exhaust</_1>
+		<_2>Dual Titanium Exhaust</_2>
+		<_3>Chrome Tip Exhaust</_3>
+		<_4>Dual Exit Exhaust</_4>
+		<_val>4</_val>
+	</exhausts>
+	<frame>
+		<_0>NULL</_0>
+		<_val>0</_val>
+	</frame>
+	<grilles>
+		<_0>NULL</_0>
+		<_1>Black Grille</_1>
+		<_2>Chrome Grille</_2>
+		<_3>Mesh Grille</_3>
+		<_4>Split Mesh Grille</_4>
+		<_5>Sports Grille</_5>
+		<_val>2</_val>
+	</grilles>
+	<hoods>
+		<_0>NULL</_0>
+		<_1>Scooped Hood</_1>
+		<_2>Carbon Hood</_2>
+		<_3>Carbon Scooped Hood</_3>
+		<_4>Performance Hood</_4>
+		<_5>Vented Hood</_5>
+		<_6>Double Vented Hood</_6>
+		<_val>6</_val>
+	</hoods>
+	<fenders>
+		<_0>NULL</_0>
+		<_1>Arch Extensions</_1>
+		<_2>Chrome Arch Trim</_2>
+		<_val>1</_val>
+	</fenders>
+	<rightfenders>
+		<_0>NULL</_0>
+		<_val>0</_val>
+	</rightfenders>
+	<roof>
+		<_0>NULL</_0>
+		<_1>Carbon Roof</_1>
+		<_2>Roof Rack</_2>
+		<_val>0</_val>
+	</roof>
+	<livery>
+		<_0>NULL</_0>
+		<_val>0</_val>
+	</livery>
+</data>
